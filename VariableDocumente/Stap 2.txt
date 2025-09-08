@@ -1,0 +1,86 @@
+STAP 2: Structureren van de anamnese (FysioRoadmap-format)
+Het doel van deze stap is om ruwe anamneseteksten, snel meegeschreven notities of transcripties van fysio intake/zitting direct om te zetten in een helder, gestructureerd en professioneel overzicht volgens het officiële FysioRoadmap Anamnesekaart-formaat uit het Professionele Dossiervoering voor Fysiotherapeuten Document.
+De anamnese-kaart bestaat uit vier duidelijke blokken:
+1.	Patiëntbehoeften
+2.	Historie
+3.	Stoornissen
+4.	Beperkingen
+Indien klinimetrische gegevens beschikbaar zijn, zoals NPRS, PSK of SPADI, worden deze automatisch verwerkt hierin. (NPRS in Stoornissen, PSK in Beperkingen)
+________________________________________
+✅ Stap-voor-stap proces voor transformatie:
+📝 Voorbeeld van ruwe anamnesetekst (fictief voorbeeld ter illustratie):
+"Patiënt heeft sinds 4 weken schouderklachten rechts. Bij tillen zware pijn NPRS 6/10. Klachten plotseling ontstaan na val op gestrekte arm tijdens sport (tennis). Pijn vooral bij arm optillen, achter rug brengen pijnlijk. ‘s Nachts wakker bij draaien op schouder. Verminderde kracht ervaren bij tillen zware objecten. Patiënt werkt als magazijnmedewerker, veel tillen. Angst dat klacht verergert bij belasting. Verwachting patiënt: snel weer pijnvrij werken en tennissen."
+________________________________________
+📌 Voorbeeldstructuur uitgewerkt in FysioRoadmap Anamnesekaart:
+Patiëntbehoeften
+•	Motivatie en hulpvraag:
+De patiënt komt vanwege klachten aan de rechter schouder na een val tijdens het sporten (tennis). De patiënt ervaart hevige pijn en wil zo snel mogelijk weer pijnvrij kunnen werken en sporten.
+•	Doelen en verwachtingen patiënt:
+Verwachting is om snel weer pijnvrij te kunnen tillen op het werk en weer volledig pijnvrij te kunnen tennissen.
+Historie
+•	Ontstaansmoment:
+Klachten ontstaan plotseling, vier weken geleden na een val op een gestrekte arm tijdens het tennissen.
+•	Verloop van de klachten:
+Klachten zijn sindsdien constant aanwezig, vooral provocatie bij tillen en bewegen boven schouderhoogte. Nachtelijke pijn aanwezig bij draaien op aangedane zijde.
+•	Eerdere behandeling:
+Geen eerdere behandeling voor deze klacht gehad. Patiënt heeft rust gehouden en paracetamol gebruikt, weinig effect gemerkt.
+Stoornissen
+•	Pijn:
+NPRS 6/10 bij tillen en bewegen boven schouderhoogte, scherpe pijnlocatie rond voorzijde en bovenzijde schouder, nachtelijke pijn.
+•	Mobiliteit:
+Beperkte actieve bewegingsuitslag bij abductie en endorotatie (achter de rug brengen zeer pijnlijk).
+•	Kracht:
+Verminderde kracht ervaren bij heffen en dragen van zware objecten.
+•	Stabiliteit:
+Gevoel van instabiliteit of onzekerheid bij tillen zware lasten.
+Beperkingen
+•	Functionele beperkingen ADL:
+Moeite met aankleden (jas aantrekken), persoonlijke verzorging (wassen, haren kammen).
+•	Beperkingen werk:
+Ernstige hinder bij uitvoeren van werk als magazijnmedewerker; tillen en dragen momenteel moeilijk uitvoerbaar door pijn en krachtverlies.
+•	Beperkingen sport:
+Tennissen momenteel onmogelijk vanwege pijn en bewegingsbeperkingen.
+Probeer waar mogelijk zo min mogelijk de dikgedrukte stukken hierboven ook te vermelden, waar het nodig is mag dat dus wel. Dus i.p.v. “• Beperkingen sport: Tennissen momenteel onmogelijk vanwege pijn en bewegingsbeperkingen.” Alleen opschrijven: Tennissen momenteel onmogelijk vanwege pijn en bewegingsbeperkingen. Bespaart namelijk veel onnodig leeswerk. Hoe beter en sneller te lezen en goed te begrijpen hoe beter.
+________________________________________
+📌 Klinimetrie (indien beschikbaar):
+•	NPRS: 6/10 bij belasting
+•	PSK (Patiënt Specifieke Klachten):
+o	Tillen zware objecten (scoren nog te bepalen)
+o	Tennissen (scoren nog te bepalen)
+o	Achter rug bewegen (scoren nog te bepalen)
+•	SPADI (Shoulder Pain and Disability Index): (indien ingevuld, scores hier vermelden)
+________________________________________
+⚙️ Template klaar voor EPD-invoer:
+FysioRoadmap Anamnesekaart – [Naam patiënt] – [Datum]
+
+Patiëntbehoeften
+- Motivatie/hulpvraag: [...]
+- Verwachtingen en doelen patiënt: [...]
+
+Historie
+- Ontstaansmoment: [...]
+- Verloop klachten: [...]
+- Eerdere behandeling/pogingen: [...]
+
+Stoornissen
+- Pijn: (aard, intensiteit, locatie) [...]
+- Mobiliteit: [...]
+- Kracht: [...]
+- Stabiliteit: [...]
+
+Beperkingen
+- ADL: [...]
+- Werk: [...]
+- Sport: [...]
+
+Klinimetrie:
+- NPRS: [...]
+- PSK: [...]
+- SPADI: [...]
+________________________________________
+🚩 Belangrijke punten in deze stap:
+•	Scherpe formulering: Duidelijk, beknopt, zonder onnodige details.
+•	Structuur: Duidelijke scheiding tussen de vier FysioRoadmap-blokken.
+•	Evidence-based: Professionele standaarden zoals beschreven in het aangeleverde Professionele Dossiervoering voor Fysiotherapeuten Document.
+•	Geen verzinselen: Verwerk alleen de informatie die je toegediend krijg, bedenk er niks extra’s bij en niet suggestief invullen, voorkom onjuistheden!
+Deze gestructureerde anamnese vormt vervolgens de ideale basis voor Stap 3: Onderzoeksvoorstel opstellen.

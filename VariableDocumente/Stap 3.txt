@@ -1,0 +1,81 @@
+STAP 3: Onderzoeksvoorstel Opstellen 
+Deze stap maakt gebruik van de ingevulde anamnese-kaart uit Stap 2 om een doelgericht en evidence-based fysiek onderzoek samen te stellen.
+Het onderzoeksvoorstel bevat drie onderdelen:
+1.	Basisonderzoek (verplicht voor elke patiënt)
+2.	Specifieke tests (aangepast aan klacht)
+3.	Klinimetrische meetinstrumenten
+________________________________________
+Deel 1: Basisonderzoek (standaard uitgevoerd)
+🔍 Inspectie
+•	Observatie algemene houding (antalgische houdingen, compensaties)
+•	Huid en zwelling in regio klacht
+•	Spieratrofie of asymmetrie in aangedane regio
+✋ Palpatie
+•	Palpatie botstructuren en prominente anatomische punten rondom regio klacht
+•	Palpatie betrokken spiergroepen, peesaanhechtingen, ligamenten (drukpijn, zwelling, warmte)
+🤸 Actief Bewegingsonderzoek (AROM)
+•	Volledige actieve bewegingsuitslag (ROM) registreren
+•	Bewegingskwaliteit observeren (pijnprovocatie, compensaties)
+🤚 Passief Bewegingsonderzoek (PROM)
+•	Passieve bewegingsuitslag (ROM) vergelijken met actief onderzoek
+•	Eindgevoel bepalen (hard, zacht, elastisch, pijnlijk)
+
+Hierbij graag ook aangeven wat bepaalde uitslagen zouden kunnen inhouden, zodat de patroonherkenning van de therapeut verbeterd kan worden. Dit mag beknopt en overzichtelijk.
+
+________________________________________
+Deel 2: Specifieke Tests (voorbeeld Schouder)
+Specifieke tests worden geselecteerd op basis van de vermoedelijke structuren en pathologieën uit Stap 1 & 2.
+🟢 Voorbeeld specifieke tests bij schouderklachten:
+Test	Indicatie/pathologie	Uitvoering (kort)	Reden/selectie
+Painful Arc	Subacromiale problematiek (impingement, RC tendinopathie)	Actieve abductie arm 0°-180°	Identificatie pijntraject (60°-120° subacromiaal)
+Neer’s test	Subacromiaal impingement	Passieve maximale elevatie met interne rotatie	Sensitieve screening impingement
+Hawkins-Kennedy test	Subacromiaal impingement (supraspinatus tendinopathie)	Passieve interne rotatie bij 90° abductie	Hoge diagnostische waarde bij impingement
+Empty Can (Jobe’s test)	Supraspinatus letsel	Actieve abductie 90° + duimen omlaag (interne rotatie) tegen weerstand	Specifieke test supraspinatus pathologie (krachtverlies/pijn)
+Lift-Off test	Subscapularis letsel	Actieve endorotatie arm achter rug wegduwen	Specifiek voor subscapularis ruptuur/zwakte
+AC-gewricht palpatie & cross-body test	AC-gewricht pathologie (artrose/distorsie)	Palpatie pijn, actieve horizontale adductie (cross-body)	Duidelijkheid over AC-gewricht betrokkenheid
+________________________________________
+Deel 3: Klinimetrische Meetinstrumenten
+Om voortgang objectief meetbaar te maken en functionele beperkingen te kwantificeren, worden gevalideerde klinimetrische testen geadviseerd.
+📏 Voorbeeld: Aanbevolen klinimetrie bij schouderklachten:
+•	NPRS (Numeric Pain Rating Scale)
+Vastleggen van pijnniveau (0-10) in rust en bij activiteit.
+•	PSK (Patiënt Specifieke Klachtenlijst)
+Inventarisatie van belangrijkste persoonlijke functionele klachten, meet voortgang in ADL-activiteiten.
+•	SPADI (Shoulder Pain and Disability Index)
+Valide en betrouwbare schaal om pijn én beperkingen specifiek voor schouderklachten te scoren.
+________________________________________
+
+
+📋 Voorbeeld: Outputformaat Onderzoeksvoorstel (klaar voor EPD-invoer):
+🩺 Fysiek Onderzoek – [Naam patiënt] – [Datum]
+
+🔹 Basisonderzoek:
+- Inspectie: houding, zwelling, asymmetrie
+- Palpatie: anatomische structuren, drukpijnpunten
+- Actief Bewegingsonderzoek (ARO): ROM, kwaliteit, provocatie
+- Passief Bewegingsonderzoek (PRO): ROM, eindgevoel
+
+🔹 Specifieke Tests (Schouder voorbeeld):
+- Painful Arc (subacromiaal pijnsyndroom)
+- Neer’s test (impingement)
+- Hawkins-Kennedy test (supraspinatus/impingement)
+- Empty Can/Jobe’s test (supraspinatus letsel)
+- Lift-off test (subscapularis pathologie)
+- AC-gewricht: palpatie, cross-body adductie
+
+🔹 Klinimetrische meetinstrumenten:
+- NPRS (pijn intensiteit)
+- PSK (persoonlijke functionele klachten)
+- SPADI (pijn en beperking schouder)
+
+🗒 Toelichting:
+Bovenstaande onderzoekskeuzes zijn gebaseerd op de meest waarschijnlijke betrokken structuren uit anamnese, afgestemd op de actuele KNGF-richtlijn Schouderklachten, ZorgTopics en OrthoXpert protocollen.
+________________________________________
+📖 Belangrijke punten in deze stap (checklist):
+•	Basisonderzoek altijd volledig uitvoeren.
+•	Specifieke tests afgestemd op regio en vermoedelijke pathologie.
+•	Gebruik maken van valide klinimetrische instrumenten voor voortgangsregistratie.
+•	Expliciete toelichting vanuit professionele richtlijnen, protocollen en evidence based practices/wetenschappelijk onderzoek voor transparantie en professionele verantwoording.
+________________________________________
+Met deze volledig uitgewerkte Stap 3 ben je perfect voorbereid om het fysiek onderzoek efficiënt, grondig en evidence-based uit te voeren. Na uitvoering van het fysieke onderzoek volgt automatisch de stap Stap 4: Diagnostiek en Klinisch Redeneren.
+

@@ -1,0 +1,127 @@
+STAP 1: Voorbereiding Normale Zitting
+Het doel van deze voorbereidende stap voor een normale zitting is om de fysiotherapeut een gestructureerd en universeel raamwerk te bieden voor een efficiënte en doelgerichte evaluatie. Waar de intakevoorbereiding focust op diagnose, focust deze voorbereiding op het meten van voortgang, het evalueren van de reactie op de behandeling en het voorbereiden van de volgende stap in het behandelplan. Het dient als een geheugensteun om alle relevante domeinen van de SOEP-rapportage (Subjectief, Objectief, Evaluatie, Plan) te doorlopen.
+
+Invoer benodigd:
+
+Voornaam patiënt
+
+Geboortedatum patiënt
+
+Geslacht patiënt
+
+Primaire klacht 
+
+Substap 1: Focus op Evaluatie en Voortgang
+Deze stap activeert het klinisch redeneren van de therapeut door de focus direct op de kern van een vervolgzitting te leggen: wat is de status en waar gaan we naartoe?
+
+👤 Patiënt: [Voornaam], [Geboortedatum], [Geslacht]
+
+Primaire Klacht: [Primaire klacht]
+
+Focus van Vandaag: Evalueren van de voortgang sinds de vorige zitting. De centrale vraag is: "Is de patiënt op koers richting de gestelde behandeldoelen?"
+
+Substap 2: Suggestieve Vragen voor de 'S' van SOEP (Subjectief)
+Deze vragenlijst is ontworpen om de therapeut te helpen snel en gestructureerd de subjectieve ervaring van de patiënt in kaart te brengen. De vragen zijn universeel toepasbaar en vormen de basis voor de 'S' in de rapportage.
+
+🔹 Algemene Opening:
+
+Hoe is het gegaan sinds de vorige behandeling?
+
+Zijn er veranderingen opgetreden in uw klachtenpatroon?
+
+🔹 Klachtenverloop & Pijn:
+
+Kunt u de pijn van dit moment een cijfer geven op een schaal van 0 tot 10? (NPRS) En hoe was dit gemiddeld de afgelopen week?
+
+Zijn er momenten of activiteiten geweest waarop de klacht duidelijk beter of juist slechter was?
+
+Heeft u het gevoel dat de behandeling van de vorige keer effect heeft gehad? Zo ja, wat merkte u?
+
+🔹 Functioneren (ADL, Werk, Sport):
+
+Hoe ging het met de activiteiten die we de vorige keer als lastig hebben bestempeld? (Linkt naar PSK - Patiënt Specifieke Klachten)
+
+Zijn er dingen die u nu weer kunt doen die voorheen niet lukten?
+
+Ondervindt u nog steeds beperkingen in uw dagelijks leven, werk of sport?
+
+🔹 Therapietrouw & Huiswerkoefeningen:
+
+Is het gelukt om de meegegeven oefeningen en adviezen uit te voeren?
+
+Zo nee, wat maakte het lastig? (Tijd, pijn, onduidelijkheid?)
+
+Zo ja, hoe voelden de oefeningen aan? Merkte u verschil?
+
+🔹 Gele Vlaggen (CEGS-check):
+
+Hoe voelt u zich mentaal onder de klachten op dit moment? (Angst, frustratie, optimisme?)
+
+Zijn er nieuwe zorgen of ideeën ontstaan over de oorzaak of het herstel?
+
+Substap 3: Her-screening op Rode Vlaggen
+Veiligheid blijft prioriteit. Deze korte checklist dient als geheugensteun om alert te blijven op nieuwe signalen die kunnen wijzen op een "niet-pluis" situatie.
+
+🔴 Check op Nieuwe Rode Vlaggen:
+
+Zijn er sinds de vorige keer nieuwe, onverklaarbare symptomen bijgekomen? (Bijv. koorts, nachtzweten, onverklaarbaar gewichtsverlies)
+
+Is er sprake geweest van een nieuw trauma of een val?
+
+Zijn er nieuwe of verergerde neurologische tekenen? (Bijv. tintelingen, gevoelloosheid, krachtverlies, problemen met plassen/ontlasting)
+
+Substap 4: Voorstel voor Evaluatieve Metingen ('O' van SOEP)
+Deze substap bereidt de therapeut voor op het objectieve gedeelte van de zitting. Welke metingen zijn relevant om de subjectieve informatie van de patiënt te objectiveren en de voortgang meetbaar te maken?
+
+📌 Te Herhalen Objectieve Metingen (indicatief):
+
+Klinimetrie: Herhaal de relevante metingen van de vorige keer (NPRS, PSK, etc.) om progressie in cijfers uit te drukken.
+
+Bewegingsonderzoek (AROM/PROM): Meet opnieuw de bewegingsuitslag van de relevante gewrichten. Is er een toename in Range of Motion?
+
+Krachtmeting: Her-test de spierkracht. Is er een objectieve toename?
+
+Specifieke Tests: Herhaal de specifieke tests die bij de intake positief waren. Is de uitslag veranderd?
+
+Functionele Tests: Laat de patiënt de voor hem/haar belangrijkste beperkende activiteit opnieuw uitvoeren (bijv. traplopen, bukken, een gewicht tillen). Observeer de kwaliteit en vraag naar de ervaring.
+
+Samenvatting Stap 1 – Template Voorbereiding Normale Zitting (voor EPD):
+Dit template kan direct als geheugensteun of als basis voor de SOEP-rapportage worden gebruikt.
+
+📂 Voorbereiding Zitting – [Naam patiënt], [Leeftijd] jaar
+Hoofdklacht: [korte beschrijving klacht]
+
+1️⃣ Focus & Evaluatie:
+
+Status van de patiënt in relatie tot de behandeldoelen.
+
+Reactie op de vorige interventie.
+
+2️⃣ Subjectieve Anamnese (S):
+
+Algemeen: Hoe is het gegaan? Veranderingen?
+
+Pijn: NPRS huidig/gemiddeld. Provocatie/reductie.
+
+Functie: Status van PSK-activiteiten (ADL/werk/sport).
+
+Oefeningen: Therapietrouw, ervaring, effect.
+
+CEGS: Mentaal welzijn, zorgen, nieuwe inzichten.
+
+3️⃣ Rode Vlaggen Her-screening:
+
+Nieuwe symptomen (koorts, gewichtsverlies)?
+
+Nieuw trauma?
+
+Veranderde neurologische tekenen?
+
+4️⃣ Objectief Onderzoek (O):
+
+Klinimetrie: Herhaal NPRS, PSK, etc.
+
+Onderzoek: Her-test ROM, kracht, specifieke tests.
+
+Functioneel: Observeer de uitvoering van de beperkende activiteit.
+

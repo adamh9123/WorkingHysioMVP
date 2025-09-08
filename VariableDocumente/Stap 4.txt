@@ -1,0 +1,78 @@
+STAP 4: Diagnostiek en Klinisch Redeneren 
+Na afronding van het gestructureerde onderzoek stelt FysioGPT een heldere, gefundeerde en transparante diagnostische conclusie op:
+Deze stap bevat:
+1.	Primaire diagnose (met waarschijnlijkheidspercentage)
+2.	Differentiaaldiagnoses (minimaal 2, met korte onderbouwing en waarschijnlijkheidspercentage)
+3.	Motivering met literatuur/richtlijnen
+4.	Advies voor eventueel aanvullend onderzoek bij twijfel
+________________________________________
+1. Primaire Diagnose (voorbeeld Schouderpijn rechts)
+Primaire Diagnose:
+🔹 Subacromiaal pijnsyndroom (SAPS)
+(Waarschijnlijkheid: 75%)
+Onderbouwing:
+•	Positieve Painful Arc (pijn tussen 60° en 120° abductie)
+•	Positieve Hawkins-Kennedy en Neer’s impingement testen
+•	Pijn bij abductie, pijnlijke palpatie subacromiale regio
+•	Duidelijke functionele beperking en pijn bij overhead-activiteiten zoals beschreven in de anamnese.
+________________________________________
+2. Differentiaaldiagnoses (met beknopte onderbouwing)
+🔸 Rotator cuff (partiële) ruptuur – supraspinatuspees (15%)
+•	Positieve Empty Can-test met pijn en mogelijk krachtverlies
+•	Mogelijke nachtelijke pijn
+•	Trauma-gerelateerde ontstaanswijze (val)
+🔸 AC-gewrichtspathologie (AC-artrose/distorsie) (10%)
+•	Lokale palpatiepijn AC-gewricht, positieve cross-body-adductie test
+•	Mogelijke pijn aan bovenzijde schouder, maar minder prominente bewegingsbeperking bij abductie
+________________________________________
+3. Motivering Diagnostiek vanuit Literatuur en Richtlijnen
+Diagnostische keuze is gebaseerd op:
+•	Evidence-based literatuur (Diercks et al., 2014, JOSPT):
+SAPS heeft kenmerkende symptomen zoals painful arc en positieve impingementtesten; rotator cuff letsels gaan vaker gepaard met duidelijk krachtverlies.
+•	KNGF-richtlijn Schouderklachten:
+SAPS is meest voorkomende oorzaak van schouderpijn bij volwassenen van middelbare leeftijd (30-50 jaar), vooral bij pijnlijke arc en positieve impingementtesten.
+•	ZorgTopics, Databanken, protocollen – Gefundeerde online informatie:
+Supraspinatuspees- en subacromiale impingement-klachten komen frequent voor na trauma door compressie of irritatie onder acromion.
+________________________________________
+4. Aanvullend Onderzoek bij Twijfel + Prognose
+Indien er bij vervolgonderzoek twijfel blijft bestaan over de primaire diagnose:
+Aanbevolen aanvullend onderzoek:
+•	Echografie schouder (differentie SAPS versus partiële rotator cuff ruptuur)
+•	MRI indien ernstige klinische onzekerheid blijft bestaan over integriteit van rotator cuff-pezen
+•	Röntgenfoto schouder (uitsluiten significante artrose of calcificaties)
+Indicaties aanvullend onderzoek:
+•	Wanneer na 3-4 weken onvoldoende herstel wordt waargenomen
+•	Ernstige aanhoudende pijn en beperkte functie ondanks behandeling
+•	Aanwijzingen voor significant letsel zoals uitgebreide krachtvermindering of nachtelijke pijn die verergert
+Prognose:
+•	Verwachting duur klachten.
+
+________________________________________
+📌 Voorbeeld: Duidelijke Conclusie voor invoer in EPD:
+📌 Klinische conclusie – [Naam patiënt] – [Datum]
+
+✅ Primaire diagnose:
+- Subacromiaal pijnsyndroom (SAPS) – waarschijnlijkheid: 75%
+
+⚠️ Differentiaaldiagnoses:
+- Rotator cuff (partiële) ruptuur supraspinatuspees (15%)
+- AC-gewrichtspathologie (AC-artrose/distorsie) (10%)
+
+📚 Onderbouwing vanuit richtlijnen:
+- Positieve Painful Arc, Hawkins-Kennedy, Neer’s test.
+- Anamnese en lichamelijk onderzoek passen bij SAPS volgens KNGF-richtlijn schouderklachten en ZorgTopics protocollen.
+
+🔍 Bij twijfel aanvullend onderzoek aanbevolen:
+- Echografie schouder (rotator cuff integriteit)
+- Eventueel MRI of röntgen bij onvoldoende herstel of twijfel.
+
+Prognose:
+•	Verwachting duur klachten.
+________________________________________
+🗒 Checklist voor deze Stap (controlepunten):
+•	Heldere primaire diagnose met expliciet waarschijnlijkheidspercentage
+•	Minimaal twee differentiaaldiagnoses met onderbouwing
+•	Duidelijke koppeling en verwijzing naar literatuur en richtlijnen
+•	Advies voor aanvullend onderzoek wanneer klinisch geïndiceerd of bij twijfel
+________________________________________
+Met het afronden van deze stap beschik je over een duidelijke, heldere en evidence-based klinische conclusie die direct bruikbaar is voor het bepalen van de juiste indicatie, het zorgplan en de DCSPH-diagnosecode (Stap 5).

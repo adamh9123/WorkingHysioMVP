@@ -1,0 +1,624 @@
+
+Inhoud
+
+[1\. Introductie & Merkhistorie 1](#_Toc205134010)
+
+[Missie, Visie & Ambitie 2](#_Toc205134011)
+
+[Uitgebreide Merkstory 2](#_Toc205134012)
+
+[2\. Merkfundamenten 2](#_Toc205134013)
+
+[Merkessentie (Why) 2](#_Toc205134014)
+
+[Merkbelofte & Tagline(s) 3](#_Toc205134015)
+
+[Kernwaarden → Gedragskompas 3](#_Toc205134016)
+
+[Elevator Pitch 4](#_Toc205134017)
+
+[Elevator Pitch in 30 woorden 4](#_Toc205134018)
+
+[Strategische Merk‑archetypen 4](#_Toc205134019)
+
+[3\. Positionering & Strategie 5](#_Toc205134020)
+
+[Merkpositionering 5](#_Toc205134021)
+
+[Marktanalyse en White-space 5](#_Toc205134022)
+
+[MDC-analyse 5](#_Toc205134023)
+
+[Doelgroepen & Persona’s 6](#_Toc205134024)
+
+[Persona-samenvattingen 6](#_Toc205134025)
+
+[Concurrentielandschap & Alternatievenmatrix 6](#_Toc205134026)
+
+[Unique Value Proposition (UVP) 7](#_Toc205134027)
+
+[Merkarchitectuur (core product, modules, sub‑brands) 8](#_Toc205134028)
+
+[Go-to-Market Story & Messaging‑pijlers 8](#_Toc205134029)
+
+[4\. Verbale Identiteit 9](#_Toc205134030)
+
+# Introductie & Merkhistorie
+
+Hysio.nl is ontstaan uit de persoonlijke frustratie van oprichter **Adam Hourmat Allah**, een BIG‑geregistreerde fysiotherapeut die merkte dat hij **30–40 %** van zijn werktijd aan administratie kwijt was. Hij zag hoe collega’s kampen met een hoge administratielast en patiënten onduidelijke informatie zoeken. Met de opkomst van generatieve AI zag Adam een kans om het vak radicaal te verbeteren. In 2024 begon hij met het bouwen van een workflow dat repetitieve taken automatiseert en therapeut en patiënt samenbrengt. De eerste modules – een medische scribe en zelftriage – zijn inmiddels in testfase. Hysio.nl wil de **digitale collega** worden voor elke fysiotherapeut en een betrouwbare startplek voor patiënten
+
+## Missie, Visie & Ambitie
+
+**Missie** – _Fysiotherapeuten structureel ontlasten van administratieve ballast zodat zij zich kunnen richten op zorg en aandacht voor de patiënt._
+
+**Visie** – _Een geïntegreerd ecosysteem creëren waarin zorgverleners, patiënten en kennis continu verbonden zijn. Door AI te combineren met domeinkennis ontstaat een omgeving waar kwaliteit van behandeling, efficiëntie en persoonlijk contact vanzelfsprekend zijn._
+
+**Ambitie** – Binnen twee jaar uitgroeien tot het toonaangevende digitale platform in de Nederlandse fysiotherapie, met een community van honderden professionals en duizenden patiënten. Hysio.nl wil een voorbeeld worden voor andere paramedische sectoren en internationaal uitbreiden zonder de roots in Nederlandse zorg te verliezen.
+
+## Uitgebreide Merkstory
+
+Hysio is ontstaan uit de gedachte achter de naam “HulpFysio” – niet als een doorsnee softwareproduct, maar als een helpende hand voor de fysiotherapeut. Sinds de oprichting richt Hysio zich op **tijd teruggeven aan zorgverleners**, zodat zij kunnen doen waar ze het beste in zijn: patiënten helpen. Het merkverhaal begint bij een herkenbaar probleem: de moderne fysiotherapeut wordt geconfronteerd met een administratieve last die tot wel 40% van hun werkdag opslokt. Dit is kostbare tijd die niet naar de patiënt, professionele ontwikkeling of praktijkgroei gaat.
+
+Om dit op te lossen heeft Hysio een compleet ecosysteem ontwikkeld dat fungeert als **digitale collega**. In plaats van een losse tool biedt Hysio een end-to-end platform dat alle stappen van het fysiotherapeutische proces naadloos integreert – van intake en klinische verslaglegging tot oefentherapie en declaratie. **Hysio Pro** automatiseert repetitieve administratie en ondersteunt klinisch redeneren met AI, terwijl **Hysio Go** patiënten actief betrekt bij hun herstel met slimme triage, oefenbegeleiding en educatie. Deze synergie tussen mens en AI staat centraal in de visie van Hysio: wanneer technologie routinetaken overneemt en inzichten aanreikt, ontstaat er meer ruimte voor empathie, persoonlijke aandacht en betere zorguitkomsten.
+
+Kortom, Hysio’s merkhistorie en missie draaien om één kernbelofte: de fysiotherapeut en patiënt centraal stellen. Door de meest geavanceerde AI-technologie onder de motorkap te plaatsen, maar een **kalm, vriendelijk gezicht** naar de gebruiker te tonen, geeft Hysio fysiotherapeuten de vrijheid om zich weer volledig op hun vak te richten. Dat is de reden van bestaan – en de toekomstvisie – van het merk Hysio.
+
+# Merkfundamenten
+
+## Merkessentie (Why)
+
+Hysio.nl bestaat om **mensen centraal te stellen** in een zorgsysteem dat door administratie dreigt te verstikken. Technologie mag de mens nooit vervangen, maar kan wel routinewerk wegnemen, kennis toegankelijk maken en ondersteuning bieden op het juiste moment. _Hysio regelt de randvoorwaarden zodat de therapeut zich op de behandeling kan focussen._
+
+_Empowering Physiotherapy_ – **fysiotherapie versterken en bevrijden**.  
+_(Hysio geeft het vak fysiotherapie hernieuwde kracht: door tijd te besparen, kennis te vergroten en mensen te verbinden.)_
+
+## Merkbelofte & Tagline(s)
+
+**Merkbelofte** – _Hysio.nl belooft tijdwinst, zekerheid en vertrouwen. Onze AI‑assistent maakt verslaglegging efficiënt, haalt evidence naar voren en geeft patiënten inzicht. Wij respecteren privacy en laten professionals altijd de controle houden._
+
+**Hoofdslogan** – _“Jij focust op zorg, Hysio doet de rest.”_  
+Gebruik deze tagline in campagnes, op de homepagina en in presentaties. Bij lange stukken kan een tweede slogan gebruikt worden, bijvoorbeeld: _“Slimmer werken, beter behandelen.”_
+
+_(Onze belofte: Hysio geeft fysiotherapeuten én patiënten meer tijd, kennis en vertrouwen – mogelijk gemaakt door AI.)_
+
+## Kernwaarden → Gedragskompas
+
+| Kernwaarde | Uitwerking & Gedragskompas |
+| --- | --- |
+| **Empathisch** | Wij tonen begrip voor de praktijk van de therapeut en het perspectief van de patiënt. In productdesign en communicatie luisteren we actief, gebruiken we menselijke taal en respecteren we privacy. |
+| **Innovatief** | We zoeken continu naar betere oplossingen, integreren de nieuwste AI‑modellen en durven te experimenteren. Fouten zijn leerpunten zolang ze worden gedeeld en gedocumenteerd. |
+| **Betrouwbaar** | Veiligheid en nauwkeurigheid staan voorop. We voldoen aan wet- en regelgeving (AVG, MDR) en testen uitvoerig. Teksten en adviezen blijven altijd controleerbaar door de zorgprofessional. |
+| **Samenwerkend** | We creëren een community waar therapeuten van elkaar leren, patiënten feedback geven en partners aansluiten. Openheid en co‑creatie staan centraal. |
+| **Doeltreffend** | Alles wat we bouwen moet een aantoonbare tijdswinst of kwaliteitsverbetering opleveren. Geen feature zonder duidelijk voordeel. |
+| **Mensgericht** | _De gebruiker staat centraal._ Technologie is een middel, geen doel. **Visueel:** focus op gebruiksvriendelijkheid: grote knoppen, leesbare fonts, en toegankelijkheid voor iedereen. **Tekst:** positieve en motiverende toon. We benadrukken samenwerking (“samen bereiken we…”) en spreken inclusief (geschikt voor zowel professionals als leken, zonder iemand uit te sluiten). |
+| **Evidence-Based** | _Inhoud heeft wetenschappelijke grondslag._ Beslissingen en features steunen op actuele fysiotherapiekennis. **Visueel:** gebruik van infografieken, referenties of kleine data-icoontjes bij AI-analyses om de onderbouwing te suggereren. **Tekst:** noem relevante onderzoeken of KNGF-richtlijnen waar passend, en vermijd onbewezen claims. |
+| **Efficiënt** | _Maximale impact, minimale verspilling._ We helpen tijd winnen en eenvoud creëren. **Visueel:** strakke, opgeruimde interfaces, duidelijke call-to-actions zonder overbodige elementen. **Tekst:** beknopte zinnen, to-the-point instructies. We gidsen gebruikers stap-voor-stap zodat niets onnodig tijd kost. |
+
+## Elevator Pitch
+
+Hysio is een AI-gedreven all-in-one platform voor fysiotherapie dat twee werelden bedient: **Hysio Pro** voor professionals en **Hysio Go** voor patiënten. Met slimme automatisering neemt Hysio tijdrovende administratie en klinisch redeneren uit handen van de fysiotherapeut, terwijl patiënten van eerste klacht tot oefenprogramma persoonlijk begeleid worden. Hysio fungeert als een digitale collega die ervoor zorgt dat zowel behandelaar als patiënt **meer tijd, kennis en vertrouwen** krijgen – ondersteund door state-of-the-art kunstmatige intelligentie. Het resultaat: minder rompslomp, betere zorguitkomsten en **“meer tijd voor je vak.”**
+
+### Elevator Pitch in 30 woorden
+
+**Hysio.nl** is een AI‑gedreven platform dat fysiotherapeuten helpt bij verslaglegging, klinisch redeneren en patiëntenbeheer. Door repetitief werk te automatiseren ontstaat meer tijd en ruimte voor persoonlijke zorg.
+
+## Strategische Merk‑archetypen
+
+| Archetype | Rol in de merkpositionering | Toepassing |
+| --- | --- | --- |
+| **Zorgdrager** (Caregiver) | De zorgdrager is empathisch en staat klaar om te helpen. Dit archetype past bij het ontzorgen van therapeuten en het begeleiden van patiënten. | Toon empathie in copy, bied duidelijke stappenplannen en benadruk begeleiding. |
+| **Wijze** (Sage) | De wijze deelt kennis en zoekt waarheid. Hysio.nl gebruikt evidence‑based inzichten en maakt wetenschappelijke literatuur toegankelijk. | Gebruik feitelijke onderbouwing, citeer bronnen, bied leerpaden (Hysio Edu). |
+| **Magiër** (Magician) | De magiër gebruikt technologie om transformatie te veroorzaken. Dit archetype past bij de AI‑integratie en visionaire ambitie. | Visualiseer innovatie (bewegende patronen, datastromen), benoem “magische” tijdswinst maar blijf concreet. |
+
+De primaire archetypen zijn **Zorgdrager** en **Wijze**; de **Magiër** ondersteunt als secundaire archetype voor productinnovatie.
+
+# Positionering & Strategie
+
+## Merkpositionering
+
+## Marktanalyse en White-space
+
+De Nederlandse fysiotherapiesector telt circa **30.000** therapeuten, waarvan veel ZZP’ers en kleine praktijken. Onderzoek wijst uit dat fysiotherapeuten gemiddeld **30–40 % van hun werktijd** besteden aan administratieve taken, zoals verslaglegging en declaraties. Daarnaast is de markt versnipperd: er bestaan losse tools voor elektronische patiëntendossiers (EPD’s), spraakherkenning en oefenapps, maar geen **integraal platform** dat verslaglegging, klinisch redeneren, triage, communicatie en educatie samenbrengt. Patiënten zoeken informatie op algemene websites (bijv. thuisarts.nl) en weten vaak niet of hun klacht fysio‑geschikt is. Deze **white‑space** – een geïntegreerd, domeinspecifiek platform dat zowel therapeut als patiënt bedient – is precies waar Hysio.nl op focust.
+
+## MDC-analyse
+
+- **Merk (Wat zijn we?):** Hysio positioneert zich als _innovatief_, _professioneel_ en _betrouwbaar_, met een kalme en ondersteunende uitstraling. Het merk combineert medische nauwkeurigheid met gebruiksgemak en efficiency. Hysio is de **wijze mentor** én **betrouwbare collega**: deskundig en intelligent, maar altijd toegankelijk en mensgericht in toon. We lopen voorop in AI-gedreven zorgtransformatie, zonder de menselijke maat te verliezen.
+- **Doelgroep (Voor wie?):** Primair gericht op de **moderne Nederlandse fysiotherapeut**, secundair op de **actieve patiënt** die betrokken wil zijn bij zijn herstel.
+- _De Zorgverlener:_ De praktiserende fysio, gedreven door de beste patiëntresultaten en evidence-based praktijk. Overbelast door administratie, op zoek naar tools die tijd besparen en klinische inzichten bieden. Waardeert professionele, betrouwbare ondersteuning die op zijn workflow aansluit.
+- _De Patiënt:_ Iedereen met een hulpvraag in het bewegingsapparaat – van revalidatiepatiënt tot sporter met een blessure. Wil snelle toegang tot zorg, duidelijke informatie en een gevoel van regie over het eigen herstel. Zoekt een betrouwbare gids (app) om oefeningen na de behandeling voort te zetten.
+- **Concurrentie (Hoe onderscheiden we ons?):** De markt wordt gedomineerd door generieke EPD-systemen (zoals Incura, Intramed) en brede AI-tools (zoals spraakherkenning à la Dragon Medical). Hysio creëert een **nieuwe categorie** door hyper-specialisatie in fysiotherapie:
+- _End-to-end workflow:_ Hysio dekt het volledige behandeltraject, van eerste intake tot facturatie, binnen één platform. Traditionele systemen bieden deeloplossingen; Hysio integreert álle stappen.
+- _Lokaal maatwerk:_ Hysio is vanaf de grond opgebouwd rond Nederlandse standaarden (KNGF-richtlijnen, DTF) en declaratiesystemen (DCSPH-codes). Deze focus maakt Hysio uniek en moeilijk te evenaren door algemene internationale spelers. Waar anderen one-size-fits-all software bieden, is Hysio “by Dutch physio, for Dutch physio” – een onoverbrugbare voorsprong in lokale diepgang.
+- _AI-first aanpak:_ In tegenstelling tot legacy EPD’s die beperkt automatiseren, heeft Hysio AI in zijn kern ingebouwd (bijv. automatische verslaglegging, slimme oefenschema’s). Dit leidt tot een efficiëntere praktijkvoering en onderscheidt Hysio duidelijk van traditionele software.
+
+## Doelgroepen & Persona’s
+
+**Primaire doelgroep: fysiotherapeuten** – zowel zelfstandig als in loondienst. Subpersona’s:
+
+- _Innovatieve solist_ (ZZP’er, 30–45 jaar). Wil tijd besparen, staat open voor nieuwe technologie en zoekt een concurrentievoordeel.
+- _Praktijkhouder_ (50+). Wil efficiëntere processen, uniforme rapportages en teamondersteuning. Beslist over abonnementen.
+- _Netwerkfysiotherapeut_ (specialistische zorggroep). Zoekt compliance met KNGF/DTF‑richtlijnen en wil samenwerking binnen een regio verbeteren.
+
+**Secundaire doelgroep: patiënten en sporters** – gebruikers van **Hysio Go**:
+
+- _Zelfzorgende patiënt_ (20–60). Wil triage, informatie en oefeningen digitaal regelen. Heeft beperkte medische kennis.
+- _Atleet_ (16–35). Zoekt preventie en prestatieverbetering, gebruikt al sport‑apps.
+- _Zorgzoeker_ (alle leeftijden). Wil snel een betrouwbare fysiotherapeut in de buurt vinden.
+
+## Persona-samenvattingen
+
+- **Persona 1 – De Fysiotherapeut (“de Zorgverlener”):** **Martijn**, 45, praktijkeigenaar en therapeut. Besteedt zijn dagen het liefst aan patiënten en vakinhoud, maar ziet zich gedwongen om avonden aan administratie te besteden. Hij is tech-savvy genoeg om digitale hulpmiddelen te waarderen, mits ze betrouwbaar en tijdbesparend zijn. Zijn doelen: betere zorgresultaten, een groeiende praktijk en meer werkplezier door minder rompslomp. Hij waardeert Hysio Pro als een collega die hem _geruststelt_ (“er wordt niks vergeten of verkeerd geregistreerd”) en _versterkt_ (“ik krijg klinische inzichten en literatuur aangereikt”). Martijn voelt zich serieus genomen doordat Hysio in zijn taal communiceert (informele “je”-toon) en precies aansluit op de Nederlandse praktijkvoering.
+- **Persona 2 – De Patiënt:** **Sanne**, 28, lerares met chronische rugklachten. Ze heeft buiten de fysieke afspraak om behoefte aan begeleiding en motivatie. Sanne is digitaal vaardig en gebruikt graag een app om inzicht te krijgen in haar voortgang en oefeningen correct uit te voeren. Ze zoekt bevestiging dat ze het goed doet en vindt het prettig als de communicatie **vriendelijk en duidelijk** is (geen medisch jargon). Hysio Go geeft haar 24/7 toegang tot adviezen, oefenvideo’s en reminders. Ze voelt zich _op haar gemak_ door de empathische toon (“Hoe gaat het vandaag met je rug?”) en _gemotiveerd_ door speelse elementen (bijv. voortgangsbalk, complimenten bij behaalde mijlpalen). Zo verlengt Hysio Go de zorgervaring buiten de praktijk in een taal en stijl die voor Sanne vertrouwd aanvoelt.
+
+## Concurrentielandschap & Alternatievenmatrix
+
+| Categorie | Voorbeelden/alternatieven | Sterktes | Zwaktes versus Hysio.nl |
+| --- | --- | --- | --- |
+| **EPD‑software** | FysioRoadmap, SpotOnMedics | Compliant met verslagleggingsnormen, integraties met verzekeraars | Richt zich vooral op dossiers en declaraties; geen AI‑ondersteuning of zelftriage. |
+| **Spraakherkenning tools** | Dragon Medical One, Google Docs | Handsfree dictatie vermindert typewerk | Niet specifiek voor fysiotherapie, geen kennisintegratie of triage. |
+| **Oefen‑/patiëntapps** | PhysiApp, MijnZorgApp | Videobibliotheek met oefeningen, huiswerkuploads | Geen verslaglegging of klinisch redeneren; niet geïntegreerd met triage. |
+| **Zelftriage websites** | thuisarts.nl, hierhebikpijn.nl | Biedt algemene medische informatie | Geen persoonlijke workflow of koppeling naar therapeut; geen AI‑analyse. |
+| **Generieke AI‑assistenten** | ChatGPT, Bard | Toegankelijk, veelzijdig | Geen domeinspecifieke workflows, geen compliance, risico op onnauwkeurige adviezen. |
+
+## Unique Value Proposition (UVP)
+
+_Hysio.nl is de eerste AI‑gedreven oplossing die_ _verslaglegging,_ _klinisch redeneren,_ _literatuuronderzoek,_ _patiënten‑selfservice_ _en_ _community_ _in één modulair platform bundelt._ Het systeem is gebouwd **door een fysiotherapeut** en afgestemd op de Nederlandse richtlijnen (KNGF, DTF, DCSPH). Het biedt **tijdwinst** van tot wel 70 % voor verslaglegging, **evidence‑based beslisondersteuning**, **zelftriage voor patiënten** en **continue ontwikkeling** via Hysio Education en Hysio Community. Deze combinatie is nergens anders te vinden.
+
+## Merkarchitectuur (core product, modules, sub‑brands)
+
+**Hysio.nl** heeft twee hoofdproducten en diverse submodules:
+
+**Hysio Pro** – de professionele webapp voor therapeuten.
+
+- **Hysio Medical Scribe** – AI die meeluistert met intake en zitting, stelt vragen, vult SOEP‑onderdelen in, herkent rode vlaggen en genereert verslagen.
+- **Hysio Assistant** – Snelle Q&A voor klinisch redeneren (evidence, richtlijnen).
+- **Hysio Red Flag Notice** – Signaleert alarmsymptomen en adviseert doorverwijzen.
+- **Hysio Edu‑Pack** – Biedt op maat geselecteerde nascholingen en microlearning.
+- **Hysio Reflect & Improve** – Geautomatiseerde feedback op eigen verslagen met verbeterpunten.
+- **Hysio SmartMail** – Genereert brieven aan huisartsen, verwijzers en patiënten.
+- **Hysio Research** (roadmap) – AI‑zoekmachine voor literatuur, soort PhD assistent, Hysio Assistant maar dan API geintegreerd waardoor het in databanken kan.
+- **Hysio ArticleGPT:** Automatisch gegenereerde wetenschappelijke kennisartikelen, op basis van input in een format.
+- **Hysio Community & Peer Review** (roadmap) – besloten netwerk voor casuïstiek, peer‑feedback en netwerksamenwerking.
+- **Hysio Refer** – referral‑programma voor klantenwerving.
+- **Hysio Support & Feedback** – tooling voor supporttickets en productfeedback.
+
+**Hysio Go** – de patiëntgerichte omgeving (web en later app).
+
+- **Hysio Zelftriage**– slimme vragenlijst op basis van DTF‑logica en rode vlaggen.
+  - **Service websites** – zoals moetiknaardefysio.nl & Hulpfysio.nl; fungeren als marketingfunnels naar Hysio.nl.
+- **Hysio Fysiozoeker** – zoekmachine voor fysiotherapeuten met filters op specialisatie en locatie.
+- **Hysio Advice** – bibliotheek met klachtartikelen, oefeningen en tips.
+- **Hysio Athlete** – gepersonaliseerde begeleiding voor sporters.
+- **Hysio Patiëntenportaal** (toekomst) – toegang tot oefeningen, voortgang, chat en afspraken.
+- **Hysio Go Community** (toekomst) – forum voor patiënten (ervaringsuitwisseling).
+
+## Go-to-Market Story & Messaging‑pijlers
+
+**Verhaal** – Hysio.nl is ontstaan uit de praktijk en ontwikkelt zich samen met gebruikers. De oprichter is zelf fysiotherapeut en begrijpt de pijnpunten. Het verhaal draait om **ontzorgen**, **evidence** en **verbinding**: de therapeut hoeft niet langer te kiezen tussen tijd met de patiënt en administratie. De AI‑assistent is géén vervanging maar een collega die luistert, denkt mee en snel resultaten oplevert.
+
+**Messaging‑pijlers**:
+
+1. **Tijdwinst & efficiëntie** – Benadruk dat de Medical Scribe 70 % van de verslaglegging automatiseert en dat therapeuten minder avonden overwerken. Gebruik concrete vergelijkingen (bijv. “één extra patiënt per maand betaalt al je abonnement”).
+2. **Zekerheid & kwaliteit** – AI is gevoed met up‑to‑date richtlijnen; de Red Flag Notice waakt over veiligheids­signalementen en de Assistant levert evidence per klik. Vermijd medische claims: de therapeut blijft eindverantwoordelijk.
+3. **Samen groeien** – Hysio Education en Community bieden doorlopende scholing en peer‑feedback. Er is ruimte voor co‑creatie: gebruikers dienen ideeën in en zien die terug in de roadmap.
+4. **Patiëntgerichte zorg** – Met Hysio Go begeleid je patiënten vanaf de eerste klacht: triage, oefeningen en communicatie. Dit verhoogt therapietrouw en tevredenheid.
+
+# Verbale Identiteit
+
+## Tone-of-Voice-principes
+
+De tone of voice is **vriendelijk‑professioneel**, toegankelijk en betrouwbaar. We schrijven op **B1‑niveau**, zodat zowel professionals als patiënten de teksten snel begrijpen. De Rijksvoorlichtingsdienst adviseert B1‑taal: korte zinnen, eenvoudige woorden en een actieve stijl[\[2\]](https://www.communicatierijk.nl/vakkennis/rijkswebsites/aanbevolen-richtlijnen/taalniveau-b1#:~:text=Wat%20houdt%20taalniveau%20B1%20in%3F). Richtlijnen:
+
+- **Duidelijk en empathisch** – Gebruik “je” of “jij” voor therapeuten en patiënten, tenzij juridische context een formele toon vereist. Spreek de gebruiker direct aan en toon begrip voor hun situatie.
+- **Actief en oplossingsgericht** – Formuleer wat er wél mogelijk is. In plaats van “U kunt niet verder zonder…” schrijf je “Voer uw gegevens in om verder te gaan”.
+- **Krachtig en bondig** – Beperk zinnen tot ca. 15 woorden. Vermijd tangconstructies en vakjargon; leg begrippen uit of link naar een uitleg.
+- **Consistent** – Gebruik één aanspreekvorm (je/jij) en consequent hetzelfde stijlregister. Vermijd afwisseling tussen u/jij. Schrijf getallen t/m tien voluit, daarna cijfers.
+- **Inclusief** – Vermijd stereotyperingen, spreek mensen neutraal aan (geen aannames over gender of leeftijd). Houd rekening met diverse achtergrond.
+
+## Copyrichtlijnen
+
+#### UI‑microcopy (knoppen, foutmeldingen, velden)
+
+Microcopy moet gebruikers helpen taken te voltooien zonder frustratie. Volgens best practices uit de UX‑writing community moet de tekst kort, duidelijk en actiegericht zijn[\[3\]](https://uxwritinghub.com/error-message-examples/#:~:text=Table%20of%20Contents). Richtlijnen:
+
+- **Knoppen** bevatten een werkwoord en benoemen het resultaat (“Aanmelden”, “Notitie opslaan”).
+- **Foutmeldingen** beschrijven het probleem en bieden een oplossing. Vermijd blame (“U hebt dit fout gedaan”) en gebruik neutrale formulering (“Voer een geldig e-mailadres in”)[\[4\]](https://uxwritinghub.com/error-message-examples/#:~:text=4).
+- Vermijd clichés als “Oops!” of “Whoops” omdat ze infantiliserend kunnen zijn[\[5\]](https://uxwritinghub.com/error-message-examples/#:~:text=3).
+- Houd teksten kort; zinnen van maximaal 14 woorden worden beter begrepen[\[6\]](https://uxwritinghub.com/error-message-examples/#:~:text=Table%20of%20Contents).
+
+#### Marketingcopy
+
+Marketingteksten mogen inspireren maar blijven feitelijk. Gebruik storytelling over de oprichter en voorbeelden uit de praktijk. Benoem voordelen (tijdwinst, kwaliteit, patiënttevredenheid) en vermijd loze superlatieven. Gebruik de tagline waar relevant. Houd SEO in gedachten: gebruik zoekwoorden zoals _fysiotherapie_, _AI‑assistent_, _verslaglegging_ en _zelftriage_.
+
+#### Juridisch
+
+Juridische teksten (algemene voorwaarden, privacyverklaring) moeten helder blijven maar nauwkeurig en compleet zijn. Gebruik geen verkleinwoorden. Verklaar afkortingen de eerste keer (bijv. “de Wet op de geneeskundige behandelingsovereenkomst (WGBO)” ). Voor patiënteninformatie geldt ook B1‑niveau; vermijd medisch jargon of licht dit toe.
+
+## Terminologielijst & Verboden woorden
+
+| Voorkeursterminologie | Uitleg | Vermijd |
+| --- | --- | --- |
+| **Therapeut** | Verwijst naar de fysiotherapeut; nooit “behandelaar” in copy. | Behandelaar, hulpverlener |
+| **Patiënt** | Gebruiker van Hysio Go; in algemene context “patiënt of sporter”. | Cliënt (tenzij context), geval |
+| **Hysio Pro / Hysio Go** | Gebruik altijd met hoofdletter en spatie voor leesbaarheid. | hysio pro/go, HysioPro/Go |
+| **Verslag** | Geautomatiseerd document na een sessie. | Verslaglegging (als zelfstandig nw) |
+| **Zelftriage** | Vragenlijst voor eerste inschatting. | Symptoomcheck, diagnose |
+| **Module** | Onderdelen van Hysio Pro (Medical Scribe, SmartMail). | Tools, gadgets |
+| **Evidence‑based** | Wetenschappelijk onderbouwd; leg kort uit wanneer gebruikt. | Wetenschappelijk bewezen (juridisch) |
+| **Community** | Besloten kennisnetwerk voor therapeuten. | Forum (te informeel) |
+| **Je/jij** | Standaard aanspreekvorm. | U (behalve in juridische context) |
+
+## Contenttoegankelijkheid
+
+Alle content moet toegankelijk zijn voor mensen met uiteenlopende achtergronden. Voor leesbaarheid hanteren we **B1‑niveau**: duidelijke titels en tussenkoppen, actieve schrijfstijl, eenvoudige woorden en korte zinnen[\[2\]](https://www.communicatierijk.nl/vakkennis/rijkswebsites/aanbevolen-richtlijnen/taalniveau-b1#:~:text=Wat%20houdt%20taalniveau%20B1%20in%3F). We bieden informatie in tekst, beeld en (indien relevant) audio om verschillende leerstijlen te bedienen. Contrast en lettergrootte volgen de WCAG‑richtlijnen (zie sectie 4.2). Zorg ervoor dat transcripten beschikbaar zijn bij video’s en dat alternatieve tekst (alt‑tekst) alle beelden beschrijft.
+
+## AI-content-policy & Prompt‑bibliotheek
+
+**Gebruik van generatieve AI**
+
+- AI mag ondersteunend worden ingezet om notities samen te vatten, literatuur te vinden of conceptteksten te schrijven. De therapeut of marketeer is altijd verantwoordelijk voor de uiteindelijke inhoud en moet deze handmatig controleren en aanvullen.
+- Deel geen identificeerbare patiëntgegevens met externe AI‑diensten zonder toestemming en verwerkersovereenkomst. Gebruik pseudoniemen en minimaliseer informatie.
+- Gebruik system prompts met duidelijke instructies, bijvoorbeeld: “Schrijf een concept e‑mail aan een huisarts over de voortgang van een patiënt op B1‑niveau, met maximaal 150 woorden en een vriendelijke toon.”
+- Leg in documentatie vast welke prompts werken voor welke situaties (verslaggeneratie, e‑mail, social post). Houd de bibliotheek up‑to‑date en voer een bias‑check uit om discriminatie te voorkomen.
+
+# Visuele Identiteit
+
+## Logo-systeem & Veilige ruimte
+
+Het Hysio-logo is het meest herkenbare element van onze branding. Het logo bestaat uit een **woordmerk** “Hysio” en een bijbehorend **beeldmerk** (icoon), dat zowel samen als los gebruikt kan worden. Er zijn twee primaire configuraties:
+
+- **Hoofdlogo (horizontaal):** het woord “Hysio” in onze eigen typografie/stijl, vaak vergezeld door het icoon links ervan. Deze horizontale lock-up is de voorkeursvariant voor de meeste toepassingen (website header, brieven, presentaties).
+- **Stacked/Verticaal logo:** een compacte variant waarbij het icoon boven het woordmerk staat, of alleen het icoon gebruikt wordt. Dit is handig voor situaties met beperkte ruimte (bijv. social media profielafbeelding, favicon, app-splashscreen).
+
+{
+
+&nbsp; "logo": {
+
+&nbsp;   "overall_shape": "Capital letter 'H'",
+
+&nbsp;   "dimensions": {
+
+&nbsp;     "aspect_ratio": "approximately 1:1 (square form, slightly rectangular vertically)",
+
+&nbsp;     "shape_style": "rounded rectangular edges"
+
+&nbsp;   },
+
+&nbsp;   "color_scheme": {
+
+&nbsp;     "primary_color": "#0A3D32",
+
+&nbsp;     "accent_color": "#78D0BF",
+
+&nbsp;     "background_color": "transparent"
+
+&nbsp;   },
+
+&nbsp;   "composition": {
+
+&nbsp;     "left_part": {
+
+&nbsp;       "shape": "rectangle with rounded corners",
+
+&nbsp;       "color": "#0A3D32",
+
+&nbsp;       "description": "Volledig gevuld, egaal donkergroen zonder details of schaduwen. Vormt linkerzijde van letter 'H'."
+
+&nbsp;     },
+
+&nbsp;     "right_part": {
+
+&nbsp;       "shape": "rectangle with rounded corners",
+
+&nbsp;       "color": "#0A3D32",
+
+&nbsp;       "description": "Volledig gevuld, egaal donkergroen zonder details of schaduwen. Vormt rechterzijde van letter 'H', iets verder naar rechts geplaatst om ruimte te maken voor de wervelkolom in het midden."
+
+&nbsp;     },
+
+&nbsp;     "middle_crossbar": {
+
+&nbsp;       "shape": "horizontal rounded rectangle",
+
+&nbsp;       "color": "#0A3D32",
+
+&nbsp;       "position": "exactly in het midden, verbindt linker- en rechterdeel van 'H'",
+
+&nbsp;       "dimensions": "korter dan de volledige breedte van de letter"
+
+&nbsp;     },
+
+&nbsp;     "central_detail": {
+
+&nbsp;       "type": "spine representation",
+
+&nbsp;       "orientation": "vertical, slightly curved (convex naar rechts)",
+
+&nbsp;       "position": "middenrechts, overlapt rechterzijde van 'H'",
+
+&nbsp;       "color": "#78D0BF",
+
+&nbsp;       "segments": {
+
+&nbsp;         "total_number": "9 wervelachtige elementen",
+
+&nbsp;         "shape": "rechthoekig met afgeronde hoeken, subtiel variërend in grootte (boven en onder iets kleiner dan middenstukken)",
+
+&nbsp;         "arrangement": "verticaal gestapeld met regelmatige tussenruimten",
+
+&nbsp;         "curvature_description": "lichte, natuurlijke kromming zoals bij een menselijke wervelkolom (naar rechts toe bollend)"
+
+&nbsp;       }
+
+&nbsp;     }
+
+&nbsp;   },
+
+&nbsp;   "visual_styling": {
+
+&nbsp;     "style": "modern minimalistisch, eenvoudig en strak",
+
+&nbsp;     "shadows_or_gradients": "geen schaduwen, geen gradiënten, enkel effen kleuren",
+
+&nbsp;     "outline_or_border": "geen omrandingen",
+
+&nbsp;     "visual_weight": "gebalanceerd, symmetrisch met een subtiele dynamiek door de kromming van de wervelkolom"
+
+&nbsp;   },
+
+&nbsp;   "intended_meaning": {
+
+&nbsp;     "symbolism": "Letter 'H' staat voor Hysio, de wervelkolom symboliseert fysiotherapie, gezondheid, beweging en ondersteuning.",
+
+&nbsp;     "target_audience": "medische professionals, patiënten en fysiotherapie-gerelateerde diensten",
+
+&nbsp;     "application_context": "digitale en fysieke toepassingen zoals websites, apps, visitekaartjes, briefpapier, en bewegwijzering"
+
+&nbsp;   }
+
+&nbsp; }
+
+}
+
+De **intentie en regels** voor gebruik: - **Woordmerk stijl:** De letters “Hysio” worden weergegeven in een custom versie van het Inter font (of een op maat gemaakt logotype) – strak, lowercase/hoofletters mix of geheel lowercase voor toegankelijk gevoel. Vermoedelijk is de kleur van het woordmerk **Deep Green (#004B3A)** op lichte achtergronden, om maximale herkenbaarheid te geven en aan te sluiten bij de primaire tekstkleur. - **Beeldmerk:** Het icoon refereert subtiel aan fysiotherapie door de ruggengraat die rechts op de stengel van de letter H te zien is. Kleurgebruik hier is (Light teal / Aqua green / **Mintgroen) (#58C7AA)** op witte achtergrond of wit op mintgroen vlak, afhankelijk van context. Het icoon wordt los ingezet voor avatars, als loading spinner graphic (geanimeerd), of als watermerk. - **Sub-brand lock-ups:** Voor elke sub-brand (Pro, Go, etc.) bestaat een variant van het logo waarin de sub-naam wordt toegevoegd. Dit gebeurt bij voorkeur als een **kleuraccent-tag** naast of onder het hoofdlogo. Bijvoorbeeld: “Hysio” in Deep Green, met ernaast een afgerond label of klein blokje in de specifieke accentkleur en de tekst “Pro” erin in een andere kleur. Alternatief kan de sub-merknaam ook als tekstueel suffix: “Hysio Pro” waarbij “Pro” in de huisstijl-kleur Deep Green 900 is gezet. Deze lock-ups laten duidelijk zien dat het om één familie gaat, maar geven professionals en klanten tegelijk houvast welk onderdeel van het platform het is. Enkele voorbeelden van kleurgebruik: - _Hysio Pro:_ logo + “Pro” in donkergroen (#003728) - _Hysio Go:_ logo + “Go” in mint-donkergroen (#5BC49E) - _Hysio Education:_ logo + “Education” in cyaan (#4ADBCD) - _Hysio Community:_ logo + “Community” in teal (#008E7E) - _Hysio Knowledge:_ logo + “Knowledge” in indigo (#5560FF)  
+Bij al deze varianten blijft het hoofdwoord “Hysio” steeds dezelfde kleur (Deep Green of wit), alleen het sub-brand gedeelte verandert van kleur. Dit waarborgt een consistente uitstraling. - **Logo veilige ruimte:** Rondom het logo moet altijd voldoende “lucht” zijn. Hanteer minstens de hoogte van de hoofdletter “H” als minimale marge aan alle zijden. In geen geval mogen andere elementen (tekst, grafiek, rand) binnen deze veilige ruimte vallen. Dit garandeert dat het logo opvalt en niet in het nauw komt. - **Minimale grootte:** Om leesbaarheid te garanderen mag het logo niet te klein worden afgebeeld. Richtlijn voor print: minimaal 30 mm breed voor het volledige woordmerk-logo. Voor digitale toepassingen: minimaal 120 px breed bij horizontale variant. Bij kleinere formaten liever overschakelen op alleen het icoon (bijv. favicon 32x32 px). Test altijd of de tekst “Hysio” scherp blijft; bij twijfel de icon-only versie gebruiken. - **Kleurvarianten:** Het logo kent een _full-color_ variant en een _monochrome_ variant. Full-color betekent gebruik van onze brandkleuren: doorgaans Deep Green tekst op een lichte achtergrond of een witte tekst/icoon op mintgroene of donkere achtergrond. **Gebruik bij voorkeur de full-color versie** op onze standaard achtergronden (wit, off-white of mint). In situaties waar kleurbeperking geldt (bijv. éénkleur druk, watermerk) kan het logo geheel in zwart, wit of een van de groentinten worden gebruikt. Belangrijk: zorg altijd voor voldoende contrast – op een foto of gekleurde achtergrond komt meestal de **witte versie** van het logo het beste tot zijn recht (eventueel met een subtiele slagschaduw of outlined variant voor contrast). - **Achtergrondregels:** Plaats het logo bij voorkeur op effen, rustige achtergronden: Off-White, wit, onze mintgroen (dan logo in wit), of een donkere versie van ons groen (dan logo in wit). Vermijd plaatsing op drukke foto’s of patronen; als dit toch moet, overweeg een semi-transparante donker overlay achter het logo om leesbaarheid te verhogen. Gebruik het logo niet op kleuren die vloeken met het palet (zoals hard rood, fuchsia, etc.). - **Don’ts:** Rek of vervorm het logo niet – behoud altijd de originele verhoudingen. Pas geen schaduwen, glows of andere effecten toe op het logo zonder toestemming van het brand team. Combineer het logo ook niet met niet-goedgekeurde tekst of slogans binnen de veilige ruimte. Onze tagline _“Meer tijd voor je vak.”_ mag bijvoorbeeld wel los onder een logo staan als ontwerpaccent, maar niet vast onderdeel van de logo-afbeelding zijn (zodat flexibiliteit blijft).
+
+In de praktijk zullen de specifieke logo-bestanden (SVG/PNG) beschikbaar zijn in de Brand Asset Library (zie hoofdstuk 6). Gebruik altijd deze officiële bestanden om consistentie te garanderen.
+
+## Kleurpalet
+
+Het kleurenpalet van Hysio.nl is ontworpen om een gevoel van rust, vertrouwen en professionele innovatie uit te stralen. De visuele identiteit wordt gedragen door een frisse **mintgroene** basiskleur, ondersteund door **diepe groentinten** voor typografie en een **warme off-white achtergrond** voor optimale leesbaarheid. Elk submerk binnen het Hysio-ecosysteem beschikt daarnaast over een unieke accentkleur, zorgvuldig gekozen om herkenbaarheid en visuele samenhang binnen het totale merkbeeld te waarborgen zodat ze herkenbaar zijn maar toch familie blijven. Hieronder een overzicht van de belangrijkste kleuren inclusief hun codes:
+
+**Primaire Brandkleuren:**
+
+| **Naam** | **HEX** | **RGB** | **CMYK** (C/M/Y/K) |
+| --- | --- | --- | --- |
+| Off-White (achtergrond) | #F8F8F5 | 248, 248, 245 | 0, 0, 1, 3 |
+| Mint (Primary Brand) | #A5E1C5 | 165, 225, 197 | 27, 0, 12, 12 |
+| Deep Green (Headlines) | #004B3A | 0, 75, 58 | 100, 0, 23, 71 |
+| Deep Green 900 (Body) | #003728 | 0, 55, 40 | 100, 0, 27, 78 |
+| Mint-Dark (Hover State) | #5BC49E | 91, 196, 158 | 54, 0, 19, 23 |
+| Emerald (Success accent) | #10B981 | 16, 185, 129 | 91, 0, 30, 27 |
+| **Gradient**&lt;br&gt;(decoratief) | _135° verloop:_&lt;br&gt;#A5E1C5 → #C8F1E2 | –   | –   |
+
+**Secundaire / Sub-Brand Accentkleuren:**
+
+Elke module binnen het Hysio‑ecosysteem krijgt een eigen accentkleur. Zo zijn ze in één oogopslag herkenbaar maar blijven ze duidelijk familie. Alle kleuren voldoen aan **≥ 4,5 : 1 contrast** op #FFFFFF én op de Off‑White achtergrond #F8F8F5.
+
+| **Module** | **Kleurnaam** | **HEX** | **RGB** | **CMYK** |
+| --- | --- | --- | --- | --- |
+| **Hysio PRO** | Deep Green 900 | #003728 | 0 55 40 | 100 0 27 78 |
+| **Hysio GO** | Mint‑Dark | #5BC49E | 91 196 158 | 54 0 19 23 |
+| **Hysio Medical Scribe** | Deep Green 900 | #003728 | 0 55 40 | 100 0 27 78 |
+| **Hysio Assistant** | Sky 500 | #0EA5E9 | 14 165 233 | 94 29 0 9 |
+| **Hysio Red Flag Notice** | Red 600 | #DC2626 | 220 38 38 | 0 83 83 14 |
+| **Hysio Edu‑Pack** | Lime 600 | #65A30D | 101 163 13 | 38 0 92 36 |
+| **Hysio Reflect & Improve** | Amber 500 | #FFC043 | 255 192 67 | 0 25 74 0 |
+| **Hysio Education** | Cyan 500 | #4ADBCD | 74 219 205 | 66 0 6 14 |
+| **Hysio SmartMail** | Blue 500 | #3B82F6 | 59 130 246 | 76 47 0 4 |
+| **Hysio Research** | Purple 500 | #9A5BF5 | 154 91 245 | 37 63 0 4 |
+| **Hysio ArticleGPT** | Magenta 500 | #D946EF | 217 70 239 | 9 71 0 6 |
+| **Hysio Pro Community** | Teal 600 | #008E7E | 0 142 126 | 100 0 11 44 |
+| **Hysio Refer** | Orange 500 | #F97316 | 249 115 22 | 0 54 91 2 |
+| **Hysio Support & Feedback** | Slate 600 | #64748B | 100 116 139 | 28 17 0 45 |
+| **Hysio Zelftriage** | Mint‑Dark | #5BC49E | 91 196 158 | 54 0 19 23 |
+| **Service Websites**(Moetiknaardefysio.nl / Hulpfysio.nl) | Mint 600 | #34D399 | 52 211 153 | 75 0 28 17 |
+| **Hysio Fysiozoeker** | Indigo 500 | #5560FF | 85 96 255 | 67 62 0 0 |
+| **Hysio Advice** | Pink 500 | #F472B6 | 244 114 182 | 0 53 25 4 |
+| **Hysio Athlete** | Orange 400 | #FF8A3D | 255 138 61 | 0 46 76 0 |
+| **Hysio Patiëntenportaal** | Cyan 400 | #22D3EE | 34 211 238 | 86 11 0 7 |
+| **Hysio Go Community** | Violet 400 | #A78BFA | 167 139 250 | 33 44 0 2 |
+
+**Toepassingsregels**
+
+- Gebruik de accentkleur uitsluitend binnen de context van zijn module (UI‑labels, badges, infobanners).
+- Combineer nooit twee accentkleuren in één component.
+- Voor tekst op een gekleurd vlak: gebruik altijd #FFFFFF of Deep Green 900, afhankelijk van de beste contrast‑ratio (≥ 4.5 : 1).
+- Voor pictogrammen en illustraties mag de accentkleur worden gecombineerd met de primaire mint‑gradient, mits het contrast behouden blijft.
+
+**Contrast‑check**  
+Alle bovenstaande kleuren behalen ≥ 7 : 1 contrast op Off‑White (#F8F8F5) en ≥ 4.5 : 1 op wit (#FFFFFF). Test telkens met de WCAG 2.2 contrast‑ratio‑calculator bij nieuwe composities.
+
+**Kleurconsistentie & toegankelijkheid**  
+Accentgebruik moet spaarzaam zijn — slechts 10–15 % van elk scherm. Voeg bij statusmeldingen altijd een pictogram (✔️⚠️✖️) toe zodat de boodschap niet uitsluitend via kleur wordt overgebracht aan gebruikers met kleurenblindheid.
+
+**Toepassingsregels & Contrast:** De **Off-White (#F8F8F5)** tint wordt gebruikt als primaire achtergrond voor schermen en drukwerk – een zachte neutrale basis die lange teksten comfortabel leesbaar maakt. Hierop komt de tekst in donkergroen uitstekend tot zijn recht met een contrast ratio van >9:1 (ruim boven WCAG 2.2 AA norm 4.5:1). Gebruik **Deep Green 900 (#003728)** voor body-tekst en kleine teksten op lichte achtergronden; deze kleur heeft maximaal contrast (bijv. 12.5:1 op off-white) voor optimale leesbaarheid. Koppen en grotere tekst kunnen in **Deep Green (#004B3A)** gezet worden – iets lichter maar nog steeds zeer contrastrijk – om visuele hiërarchie te creëren zonder in te boeten aan toegankelijkheid.
+
+Mintgroen **#A5E1C5** fungeert als hoofdkleur voor accentvlakken, illustraties en knoppen. Deze kleur is bewust licht gehouden om een kalme uitstraling te geven. Let op: mintgroene tekst op witte of lichtgrijze achtergronden biedt onvoldoende contrast en moet vermeden worden. Gebruik mint dan ook voornamelijk als achtergrondkleur of highlight, altijd in combinatie met een donkere tekst of pictogram erop (bijv. een deep green icoon op een mint button). Voor interactieve elementen zoals hover states en actieknoppen gebruiken we de iets donkerdere **Mint-Dark (#5BC49E)** – deze tint is intens genoeg om oplichting te signaleren en voldoet nog steeds aan contrast-eisen met witte of lichte tekst erop.
+
+Elke module (Pro, Go, etc.) heeft een eigen kleuraccent (zie tabel). Deze kleuren worden spaarzaam ingezet om content of UI-elementen te labelen of een context te duiden. Bijvoorbeeld: in de interface kan een badge of icoon voor Hysio Knowledge in indigo verschijnen, of de menubalk in de Hysio Community-sectie in teal. Ook in communicatie-uitingen helpen deze accenten om duidelijk te maken welk onderdeel van het Hysio-ecosysteem bedoeld wordt.
+
+**Kleurconsistentie:** Het is essentieel de kleuren consequent te gebruiken volgens deze richtlijnen. De **brand gradient** (mint naar licht-mint, 135°) kan worden toegepast als subtiele achtergrond in hero-secties of visuals, maar nooit voor tekstvlakken. Wees voorzichtig met overmatig gebruik van het gradient-effect; het dient ter ondersteuning en mag de rustige basis niet verstoren.
+
+Tot slot: houd rekening met **toegankelijkheid** voor kleurenzwakken. Gebruik waar nodig naast kleur ook iconen of patronen om status aan te duiden (bijv. een ✔️ symbool bij groene success messages, zodat iemand met groen/rood-kleurblindheid het onderscheid toch ziet). Test belangrijke interface-onderdelen in grayscale om te verzekeren dat informatie niet alleen via kleur overkomt.
+
+## Typografie & Hiërarchieschalen
+
+De typografie van Hysio is bewust eenvoudig en modern gehouden. We gebruiken één primaire lettertypefamilie voor alle uitingen: **“Inter”**, een strak en goed leesbaar sans-serif font dat zowel op scherm als in print uitstekend presteert. Door één font overal in te zetten, bewaken we een consistent gevoel en wordt de hiërarchie bepaald door grootte en gewicht, niet door wisselende lettertypes.
+
+- **Font-family:** Inter, system-ui, sans-serif. _(“system-ui” als fallback zorgt dat op elk systeem een neutrale sans-serif gebruikt wordt indien Inter niet laadt.)_
+- **Stijlen & Gebruik:**
+- **Headings (H1–H2):** Inter **Bold** (700). Deze worden ingezet voor belangrijkste koppen, bijvoorbeeld paginatitels of sectieheaders.
+- **Subheadings (H3–H4):** Inter **Semi-Bold** (600). Voor tussenkopjes en minder prominente titels. Dit gewicht geeft nadruk, maar is iets subtieler dan Bold.
+- **Body tekst:** Inter **Regular** (400). Voor alle doorlopende tekst, paragrafen, formulierinstructies, etc.
+- **Secondary text / Caption:** Inter **Regular** _Italic_ of 400 in een kleinere font-size. Wordt gebruikt voor bijschriften, toelichtingen of labels die minder nadruk behoeven.
+- **Buttons & UI-labels:** Inter **Semi-Bold** (600). Knoppen, menu-items en interactieve tekst gebruiken we iets vetter zodat ze direct opvallen, vaak in **ALL-CAPS of Hoofdletters** voor korte labels (bijv. “OPSLAAN”, “START”).
+- **Font-groottes & hiërarchie:** We hanteren een schaal die logisch afloopt:
+- **H1:** ± _48px_ (3rem) – gebruikt voor hero titels en belangrijkste headings (bijv. homepage tagline). Line-height ~1.2.
+- **H2:** ± _36px_ – subpagina koppen of sectietitels. Line-height ~1.3.
+- **H3:** ± _24px_ – tussenkopjes.
+- **H4:** ± _20px_ – evt. voor kleinere kopjes of kaarttitels.
+- **Body (paragraaf):** _16px_ (1rem) – basislettergrootte voor lopende tekst op web (in drukwerk ca. 10–11pt afhankelijk van medium). **Line-height:** 1.6 (oftewel ~160%) voor optimale leesbaarheid van alinea’s.
+- **Caption/overline:** _14px_ of kleiner – bijvoorbeeld formulier hints, figuur-bijschriften of paginanavigatie. Hier blijft Inter ook in kleine puntgroottes goed leesbaar.
+- **Buttons:** doorgaans _16px_ bold (volgt body-size), met eventueel iets verkleinde tekst als een knop zeer klein is. Altijd toetsen op leesbaarheid en indien nodig minimaal 14px hanteren om AA-contrast op tekst te houden.
+- **Letterspatiëring (tracking):** Over het algemeen hanteren we de standaard letter-spacing van Inter. Voor hele grote koppen (H1) kan een fractie extra witruimte tussen letters prettig zijn, bijvoorbeeld **H1** +0.5% tracking, om het wat opener te maken. Kleine teksten (caps in knoppen of labeltjes) kunnen juist baat hebben bij +1% tot +2% letter-spacing om dichtlopen te voorkomen. Dit alles met mate – vermijd extreme tracking die de look verstoort.
+- **Voorbeeld & consistentie:** Hieronder een kort voorbeeld van de typografische hiërarchie in gebruik:
+- **H1 – Voorbeeld Headline:** _“Meer tijd voor je vak.”_ (Inter Bold, 48px)
+- **H2 – Subheadline:** _“Het AI-platform voor slimme fysio’s.”_ (Inter Bold, 36px)
+- **Body tekst:** “Hysio maakt administratie moeiteloos, zodat jij je kunt richten op wat écht telt: de zorg voor je patiënten.” (Inter Regular, 16px)
+- **Caption/Label:** _Alle prijzen excl. BTW_ (Inter Regular 14px, secundair kleurtje)
+- **Button tekst:** **START NU** (Inter Semi-Bold 16px, hoofdletters op knop)
+
+Visueel gezien creëren de strakke geometrie van Inter en het gebruik van voldoende witruimte een modern en vriendelijk karakter. **Inter** heeft een uitgebreide set gewichten en goede ondersteuning voor diakritische tekens (accents, umlauts, etc.), wat consistentie in meerdere talen verzekert. Print of digitale uitingen – Inter blijft de rode (mintgroene) draad in de typografie van Hysio.
+
+## Beeld- & Illustratiestijl
+
+**Fotografie:** De fotografie die we inzetten moet direct aanspreken bij onze doelgroep en het merkgevoel versterken. We kiezen daarom voor beelden die **echte situaties** in de fysiotherapiepraktijk tonen: - **Onderwerpen:** Fysiotherapeuten en patiënten in interactie, moderne praktijkruimtes, oefensituaties, en eventueel technische elementen (zoals een fysio die met een tablet werkt om Hysio Pro te gebruiken). De mensen op de foto’s zijn bij voorkeur divers in leeftijd, achtergrond en geslacht – dit weerspiegelt de inclusieve gemeenschap die Hysio bedient. - **Setting & sfeer:** Ruimtes zijn schoon, licht en opgeruimd. Bijvoorbeeld een lichte behandelkamer met wat groene accenten (plant, mint-kleurig oefenmateriaal) om subtiel de huisstijl te echoën. De sfeer is positief en **vertrouwenwekkend**: glimlachende gezichten (maar authentiek, geen geposeerde grijns), open lichaamstaal, een patiënt die duidelijk op zijn gemak is. - **Belichting & Kleurtoon:** Gebruik hoofdzakelijk zacht, diffuus licht (denk aan een heldere dag met licht door een raam of softbox-verlichting) om harde schaduwen te vermijden. Hierdoor ogen beelden warm en uitnodigend. De kleuren in foto’s mogen iets gedempt worden richting ons kleurenpalet; lichte groene of teal tinten kunnen subtiel naar voren komen, terwijl overmatig felle vreemde kleuren worden getemperd. Een lichte **mintgroene filter** in nabewerking kan bijvoorbeeld cohesie geven, zolang huidtinten natuurlijk blijven. - **Kader & compositie:** Laat voldoende “ademruimte” in beelden zodat er eventueel tekst overheen geplaatst kan worden (zeker voor hero-banners of social posts). Close-ups van handen die een oefening doen of een scherm bedienen kunnen als detailshots dienen. Zorg dat de focus van de foto altijd duidelijk is (de interactie mens-mens of mens-technologie centraal). Vermijd rommelige achtergronden of afleidende elementen. - **Geen stocky clichés:** We mijden generieke stockfoto’s die onrealistisch of té geposeerd aandoen (bijv. de stereotype lachende patiënten met thumbs-up). Authenticiteit primeert; als we stock gebruiken, dan zorgvuldig geselecteerd en passend bij onze look.
+
+**Illustraties:** Naast fotografie zet Hysio ook illustratief materiaal in, met name in de digitale interface (denk aan icoontjes, lege-staat illustraties, infographics) en marketing (uitlegvisuals). De illustratiestijl sluit nauw aan bij onze iconografie: - **Stijl & techniek:** Flat design, **lijnillustraties** gecombineerd met vlakken in onze huisstijlkleuren. De lijnvoering is clean en uniform: **2px stroke dikte**, met ronde hoeken en line-caps (consistent met iconen, zie 3.5). Illustraties zijn daarmee licht en toegankelijk, niet te gedetailleerd of schaduwrijk. Vlakken (fills) worden spaarzaam en effen ingezet, vaak met mintgroen of de sub-brand kleuren om een accent te leggen, terwijl de lijnen meestal in Deep Green of donkergrijs getekend zijn voor contrast. - **Personages & context:** Wanneer mensen getekend worden (bv. een fysiotherapeut die iemand helpt bij een oefening), houden we de vormen simpel maar vriendelijk – denk aan ronde vormen voor hoofden/handen, milde gelaatsuitdrukkingen (een kleine glimlach). We streven naar **inclusiviteit** in illustraties: diverse huidskleuren (aangegeven door vlakjes in verschillende tinten beige/bruin), en ook genderneutrale of wisselende weergaven. Overdrijving (zoals té cartoonish) vermijden we; de verhouding blijft semi-realistisch qua menselijke proporties, om serieus genomen te worden door professionals. - **Voorbeelden van gebruik:** Illustraties kunnen voorkomen als uitleganimaties (een sequentie van beelden die een functie van de app verduidelijken), als hero-graphic op de website (bijv. een symbolische weergave van “mens + AI samen aan het werk”), of als ondersteuning in een presentatie. In Hysio Go zou bijvoorbeeld een reeks illustraties kunnen tonen hoe je een oefening uitvoert, stap-voor-stap met een stijltje dat consistent is met de rest van de app. - **Animatie-suggesties:** Waar mogelijk geven we illustraties een subtiele beweging (in de app of op web) om **AI-gedreven dynamiek** te suggereren. Bijvoorbeeld: een lijnillustratie van een AI-brain icon die zacht pulseert wanneer Hysio een analyse uitvoert, of een patiënt-figuurtje dat een kleine stretch-beweging maakt in een onboarding animatie. Alle animaties blijven _subtiel en loopend_ (geen haperingen), met doorgaans een easing (versnelling/vertraging) waardoor de beweging organisch aanvoelt. De illustraties zijn geoptimaliseerd voor animatie (geen extreem detail, duidelijk afgebakende vormen). - **Matching met fotografie:** Soms combineren we illustratie over fotografie (bv. een half transparante icon over een foto, of een grafiekje naast een persoon). Dit kan, mits kleuren en stijl worden afgestemd. Gebruik bijvoorbeeld witte line-art iconen over foto’s voor infographics, zodat het niet schreeuwerig wordt maar wel informatief.
+
+Samengevat: fotografie brengt de menselijkheid en realiteit, illustraties benadrukken het slimme en toegankelijke van onze tech. Samen scheppen ze een **visuele taal** die professioneel én warm is, net zoals Hysio zelf.
+
+## Iconografie & Pictogrammen
+
+Iconen en pictogrammen zijn onmisbaar in de Hysio UI en communicatie – van kleine interfacebuttons tot infographics. Om herkenbaarheid en esthetische samenhang te waarborgen, hanteert Hysio een strak iconografisch systeem: - **Grid & formaat:** Alle icons worden ontworpen op een gedeeld raster, bij voorkeur **24x24px** (of een veelvoud daarvan, bv. 48x48px voor retina), met een interne marge zodat de stroke niet tegen de rand plakt. Dit zorgt ervoor dat icons mooi uitlijnen onderling. In print kunnen icons uiteraard worden opgeschaald, maar het verhoudingsprincipe blijft. - **Stroke-style:** Icons zijn **lijn-georiënteerd (outline icons)**. De lijndikte is uniform **2px** voor alle iconen, waardoor ze consistent overkomen als een set. Hoeken van lijnen en vormen zijn afgerond (round joins, round caps) om het geheel een vriendelijke, toegankelijke uitstraling te geven – scherpe hoeken zouden te hard ogen binnen onze zachte stijl. - **Vormtaal:** De vormen van onze pictogrammen zijn simplistisch, geometrisch waar mogelijk, en duidelijk herkenbaar. We reduceren objecten tot hun essentie, zonder overbodige details. Een knie-gewricht icoon bijvoorbeeld wordt weergegeven als twee eenvoudige botstukken met een cirkel ertussen, in plaats van een fotorealistische knieschijf. Dit minimalisme sluit aan bij de flat design benadering. - **Kleurgebruik in iconen:** We hanteren een beperkt kleurenpalet zodat iconen nooit regenboogjes worden. Meestal zijn iconen **duotone**: een combinatie van Deep Green en Mint, of Deep Green en Off-White, etc. Bijvoorbeeld een pictogram van een checklist: de lijnelementen in Deep Green, met een mintgroen vlakje ter accent (zoals een ingevuld selectievakje). Als de achtergrond al mint is, kan een icon volledig in Deep Green (of wit) worden afgebeeld. Belangrijk is dat de gekozen kleuren per icoon voldoende contrast geven op de drager erachter. - In **Hysio Pro** interfaces zullen icons vaak Deep Green lijnen op een lichte achtergrond zijn. - In **Hysio Go** zou een highlight icon (bijv. een oefening-afgevinkt icoon) een mint invulkleur kunnen hebben op een witte kaart. - **Status-icoontjes** (succes, fout) volgen de UI-kleur: een succes-checkmark rondje in Emerald #10B981 met wit check-symbool, een error-icoon (niet in palette gegeven, maar stel oranje of rood) indien nodig. - **Consistentie & set management:** De iconbibliotheek van Hysio wordt centraal beheerd zodat er geen wildgroei ontstaat. Gebruik altijd de bestaande iconen uit de Hysio Icon Set (zie Brand Asset Library) voordat je besluit een nieuw pictogram te tekenen. Als een nieuw icoon nodig is, ontwerp het volgens bovengenoemde grid, stroke en kleurregels. Vermijd het gebruik van externe iconensets die visueel afwijken (zoals een ander stroke pattern of mismatchende perspectieven). Al onze iconen zijn frontaal of in een neutrale hoek getekend (geen pseudo-3D), behalve waar een beetje diepte helpt (bijv. een stapel documenten kan in lichte isometrie als dat echt nodig is – maar zeldzaam). - **Voorbeelden:** - Navigatie-iconen: een huis (home), agenda, chat, profiel – alle in dezelfde stijl; lege vorm met 2px lijnen, accentkleur voor actieve staat. - Specifieke fysio-iconen: bv. een wervelkolom symbool, een halter voor oefening – eveneens minimalistisch zodat zelfs op 16px grootte nog herkenning is. - Community badges: kleine pictogrammen (bv. een groepsicoon) in de kleur Teal om aan te geven dat iets van Hysio Community komt. - **Accessibility in iconen:** Elke icon moet functioneel zijn met en zonder kleur. Daarom zorgen we dat vorm alleen al (silhouet) de betekenis overbrengt. Bovendien voorzien we in software _alt-text of ARIA labels_ voor icons, zodat gebruikers met screenreaders weten wat een knop doet (bijv. “Toon oefeningen menu” voor een halter-icoon).
+
+Door deze strakke afspraken voelen alle iconen aan als deel van één familie – net zoals de rest van de visuele identiteit.
+
+## UI-componenten & States
+
+De Hysio UI-componenten zijn ontworpen om consistent, duidelijk en gebruiksvriendelijk te zijn. Hier beschrijven we de stijl en gedrag van de meest voorkomende componenten, evenals hun interactieve staten (hover, actief, focus, etc.):
+
+- **Buttons (knoppen):**
+- **Primair CTA-knop:** Rechthoekig met royale afronding van **20px** radius (pill-shape voor een vriendelijke look). Kleur: in licht thema mintgroene achtergrond (#A5E1C5) met Deep Green (#004B3A) tekst. In dark mode (indien van toepassing) omgekeerd: donkergroene knop met witte tekst of juist mint tekst op bijna zwarte knop – afhankelijk van contrastvereisten.
+  - _Hover:_ De primaire knop kleurt iets donkerder naar **Mint-Dark (#5BC49E)** om hover aan te geven. Deze overgang gebeurt met een vloeiende transitie van ca. **200ms** (ease-in-out). De tekstkleur blijft hetzelfde (Deep Green) aangezien die nog uitstekend leest tegen de donkerdere mint.
+  - _Active (klik ingedrukt):_ Op het moment van klikken kan de knop een subtiele **schaduwinversie** of **verkleining (95%)** krijgen, om de indruk van een drukknop te wekken. Dit duurt kort (~100ms) en bij loslaten gaat de knop naar hover state.
+  - _Disabled:_ Uitgeschakelde knoppen tonen we met verminderde opaciteit (bijv. 50% mint) of in grijstint, en de tekst in een lichtere Deep Green 300 of zo, om duidelijk te maken dat ze niet actief zijn. Geen hover effecten in disabled staat.
+- **Secundaire knop:** Witte of transparante achtergrond, met Deep Green rand (2px) en Deep Green tekst. Deze wordt gebruikt voor minder prominente acties. Hover: vult met Off-White of lichte mint tint en krijgt wellicht een iets donkerder rand. Focus: zie focus style hieronder.
+- **Icon buttons:** (bv. een rond knopje met een icoon zoals “+”) volgen hetzelfde principe qua kleuren: primair icon-knopje heeft mint achtergrond etc.
+- **Formulieren & Inputs:**
+- **Tekstvelden (input, textarea):** Lichtgrijze tot off-white invulling, 1px rand in een neutrale grijs (#DDD) om veld af te bakenen. Border-radius rond **8px** (we kiezen 8px voor inputvelden – iets minder rond dan buttons maar nog steeds vriendelijk). Placeholder-tekst staat in Deep Green 300 (een gedempte groen) ter indicatie.
+  - _Focus state:_ Wanneer focus in een veld komt (of hover bij desktop): de rand kleurt in onze **Mint (#A5E1C5)** of Deep Green, en krijgt eventueel een subtiele **schaduw of glow** (bij focus liefst een duidelijke 2px mintgroene outline) om de focus-indicator WCAG-proof te maken. Zo ziet de gebruiker duidelijk waar de cursor staat.
+  - _Validatie:_ Succesvolle invoer kan we worden aangegeven door rand in Emerald groen (#10B981) met een check-icoontje; fouten door rand in een aandachtkleur (rood/oranje, niet gedefinieerd maar zou consistent moeten zijn).
+- **Dropdowns, checkboxen, radios:** Alle formulier-elementen volgen dezelfde radius en kleuren. Checkboxen zijn vierkant met 4px radius (licht afgerond hoekje), radios rond. Als aangevinkt: ingevuld met Deep Green of accentkleur en een wit vinkje of bolletje in het midden.
+- **Cards & Panels:**
+- Gebruikt voor containeren van content (bijv. patiëntkaart, feature-overzicht). Cards hebben een **off-white achtergrond** (#F8F8F5) en een zachte schaduw of border: bijvoorbeeld een 1px rand in #E8E8E5 (iets donkerder off-white) of een schaduw van 2px 2px 6px rgba(0,0,0,0.05) om ze net boven de achtergrond te laten zweven.
+- **Padding:** Riant, ongeveer **2rem** (32px) inside padding zodat content niet gepropt staat.
+- **Radius:** 8px afgerond op de hoeken (consistent met input velden).
+- _Hover:_ Op desktop kunnen kaarten een subtiele hover reactie hebben: bijvoorbeeld **translateY(-5px)** en een iets sterkere schaduw om te laten zien dat het aanklikbaar is. De transitie hiervan is ~150ms, ease-out (vloeiend omhoog, en ease-in bij terugkomen). Geen extreme lifts, het moet elegant blijven.
+- **Navigatiebalk (navbar/topbar):**
+- Bovenaan webapp en website een vaste balk met Hysio logo links en menu/rechts items. **Hoogte** ca. 60px. Kleur: in light theme wit of off-white achtergrond, zodat logo (in Deep Green) goed zichtbaar is. In dark mode: zeer donker groen/zwart, met logo in wit.
+- Onder de navbar eventueel een 1px lijn in mint-donker of een schaduw om het te scheiden van content.
+- Actieve menu-items kunnen onderstreept worden met een mint balkje of gemarkeerd in bold.
+- **Hamburger menu** (mobiel): icoon 3 lijntjes in Deep Green, 24px, met menu dat uitklapt in dezelfde styling als de navbar (licht achtergrond, grote duidelijke links 16px Inter).
+- **Tabbladen & sectiekeuzes:**
+- Indien gebruikt, tabs tonen als tekstlabels met een onderstreepte actieve staat in accentkleur, of als ingekleurde pill-buttons. Bijvoorbeeld in Hysio Education: tab “Cursussen” vs “Mijn cursussen” – actieve tab gemarkeerd in Cyan 500 highlight.
+- **Tabelraster & lijsten:**
+- Tabellen (zoals agenda of patiëntenlijst) gebruiken zebra-striping (afwisselend heel licht grijs of mint tint achtergrond per rij) voor leesbaarheid. Koprij in diepere tint of met een mint balkje erachter.
+- Iconen in lijsten zijn in-line met tekst, 16px en in de juiste kleur (bijv. groen vinkje voor afgeronde taken).
+- **Motion gedrag bij UI:** (meer details in 3.7) Maar kort: **transities** op hover/focus zijn snel en soepel. Kleurveranderingen, groei/krimp en fade-ins van elementen zitten meestal in de 150–200ms bereik. Zo krijgt de gebruiker directe feedback zonder vertraging.
+
+**Focus & keyboard navigatie:** Alle interactieve elementen hebben een duidelijke focusstijl voor toegankelijkheid. Naast kleurverandering kan dit een 2px extra outline in een contrasterende kleur zijn. Bijvoorbeeld een donkergrijze outline of schaduw voor een knop op mint achtergrond, of een mint outline voor een knop op witte achtergrond. Dit volgt WCAG 2.2 richtlijnen (min. 3:1 contrast van focus-indicator).
+
+Door consistente toepassing van deze UI-componentstijl ervaart de gebruiker Hysio als één geheel. Of men nu op de website een CTA knop ziet of binnen de app een formulier invult – het voelt coherent, intuïtief en merk-eigen.
+
+## Motion & Micro-interacties
+
+Bewegingsontwerp (motion design) voegt een belangrijke laag toe aan de gebruikservaring van Hysio. Het laat de interface levendig en responsief aanvoelen, en kan gebruikers subtiel begeleiden. We hanteren hierbij het principe: _motion met een doel_. Animaties zijn functioneel en ondersteunend, nooit puur decoratief of afleidend.
+
+**Easing & timing:** We maken gebruik van **easing curves** voor natuurlijke beweging. In de praktijk betekent dit: vrijwel geen “linear” bewegingen (die voelen mechanisch aan), maar liever _ease-in-out_ of custom cubic-beziers die zacht starten en stoppen. Bijvoorbeeld ease-out (snelle start, langzaam eindigen) voor elementen die in beeld komen – dit geeft een gevoel van vlot reageren maar toch rustig landen. ease-in (langzaam beginnen, snel eindigen) voor verdwijnen van elementen – dit maakt dat iets elegant wegvloeit. Een veelgebruikte curve is vergelijkbaar met die van Material Design: (0.4, 0.0, 0.2, 1). - **Standaard duur:** **200ms** voor kleine overgangetjes (hover highlights, tooltips), **300–400ms** voor grotere bewegingen (bijv. modaalvenster dat verschijnt, side-menu dat in schuift). Lange animaties (>500ms) vermijden we voor UI-acties, omdat ze de gebruiker ophouden. Snappier is meestal beter, zolang het niet schokkerig wordt.
+
+**Micro-interactions:** Dit zijn de kleine feedbackmomenten op acties van de gebruiker: - **Hover states:** zoals eerder beschreven, knoppen lichten iets op of bewegen minimaal. Dit gebeurt vloeiend en met een **delay van 0ms** (onmiddellijk) zodra de gebruiker erover gaat, om responsiviteit te tonen. - **Klik-feedback:** naast het visuele indrukken van knoppen (scale 0.95x bijvoorbeeld), kunnen icon-buttons een lichte _ripple_ animatie krijgen binnen de knop bij aantikken – een subtiele uitvloeiing in mint die aangeeft “je hebt hier geklikt”. Dit echoot het mobiele touch gevoel ook op desktop. Duur: ~250ms fade-out. - **Validatie-animaties:** bijv. een succesvol verstuurd formulier: er verschijnt een groen vink-icoontje dat even inbeeld **popt** (met overshoot: iets groter dan terugvallen naar normaal, dit in 300ms) en dan verdwijnt. Of een foutmelding schudt zachtjes (horizontaal 3px heen-en-weer, 2 keer) om aandacht te trekken – maar niet excessief. - **Navigatie-overgangen:** Paginaovergangen binnen de webapp kunnen met een _fade_ of _slide_. Bijv. wisselen van tabblad: inhoud van oud tabblad fade-out 100ms, nieuwe fade-in 150ms overlappend, zodat het soepel oogt. In Hysio Go mobile app kan een scherm van rechts inschuiven (typische mobiele navigatie) – consistent toegepast voor bijvoorbeeld verder in het behandelplan gaan. - **AI-indicatoren:** Uniek aan Hysio is de AI-integratie. Wanneer AI op de achtergrond aan het werk is (bv. het genereren van een suggestie of het analyseren van invoer), tonen we dat op een geruststellende manier: een **subtiele pulsanimatie** op het AI-icoon of een “denken” animatie. Bijvoorbeeld een klein cirkelvormig icoontje in de hoek die in ~1s pulserend oplicht in mintgroen en dooft, herhalend. Of een skelet van een tekstregel dat kort pulseert wanneer AI die zin automatisch invult. Dit soort micro-interacties geven gebruikers feedback (“Hysio is bezig voor jou”) zonder onrust te veroorzaken. Denk aan een **datapatroon** of neurale-netwerk-lijntjes die kort oplichten in een illustratie – iets wat high-tech suggereert, maar zacht genoeg is om niet af te leiden. Zodra de AI-klaar is, verdwijnt de puls animatie of transformeert het icoon naar een checkmark of licht op één keer om success te tonen.
+
+**Do’s & Don’ts (Motion):** - _Do:_ Gebruik animatie om de gebruiker te **helpen oriënteren** – bijvoorbeeld een menu dat uitklapt duwt de content iets opzij, zodat de gebruiker snapt waar het vandaan komt en waar het heen gaat. - _Do:_ Houd animaties **consistent** – vergelijkbare acties krijgen vergelijkbare animaties (alle hover-transities in de app hebben bv. 200ms ease-in-out). Dit voorkomt dat de UI “random” aanvoelt. - _Do:_ Test animaties op verschillende apparaten – zorg dat ze vloeiend zijn bij 60fps en niet haperen, zeker op oudere hardware. - _Don’t:_ Overdrijf met bouncing, spinning of te lange waiting-animations die onrustig ogen. Vermijd bijvoorbeeld een fel knipperende indicator of een element dat continu heen en weer beweegt; dat leidt af. - _Don’t:_ Gebruik geen animaties die de core interactie vertragen. Een fancy splash screen bij elke app-start van 5 seconden is uit den boze – de gebruiker wil direct aan de slag.
+
+In essentie ondersteunt motion design de _menselijke ervaring_: het geeft de AI en de interface een meer tastbaar, vloeiend karakter, alsof het systeem leeft maar wel onder controle is. De gebruiker moet zich gesteund voelen door feedback en hints via animatie, zonder dat het ooit teveel wordt.
+
+## Accessibility & Inclusivity
+
+Toegankelijkheid is geen bijzaak maar een integraal onderdeel van Hysio’s ontwerpfilosofie. We streven naar volledige conformiteit aan **WCAG 2.2 AA** richtlijnen (en waar mogelijk AAA). Enkele concrete aandachtspunten en richtlijnen:
+
+- **Contrast van tekst en elementen:** Alle teksten voldoen aan minimaal contrast ratio 4.5:1 tegenover hun achtergrond (norm voor AA bij normaal lettertype). Veel van onze combinaties zijn bewust hoog contrast: bijvoorbeeld diep donkergroene tekst (#003728) op off-white behaalt ~12.5:1 contrast, wat zelfs AAA voor kleine tekst overtreft. We vermijden lichte pastel tekst op lichte achtergronden. Waar onze huisstijlkleuren te weinig contrast geven (bv. mint #A5E1C5 op wit – dat is slechts ~1.5:1), gebruiken we die combinatie niet voor essentiële content. In grafieken of decoraties waar contrast lager kan zijn, zorgen we dat dit geen functionele info belemmert. **Test elke nieuwe kleurcombinatie** met een contrastchecker; dit is een vaste stap in onze design QA.
+- **Minimale fontgrootte:** Voor online teksten hanteren we minimaal 16px voor lopende tekst (zoals ook aanbevolen door o.a. Apple HIG en Material Design). Uitzondering: zeer secundaire info (zoals footer copyright of labeltjes) kan 14px zijn, maar niets kleiner. In de apps kan de gebruiker systeem-font-scaling gebruiken zonder dat de layout breekt (responsive design). In print vermijden we corps kleiner dan 9pt voor body.
+- **Schalingsmogelijkheden:** De interface wordt getest op zoom-levels (200% zoom moet nog bruikbaar zijn) en op hoge-res schermlezers. We designen met een 8px-baseline grid dat schaalt, zodat dingen op een grotere schaal ook logisch blijven uitlijnen.
+- **Keyboard-navigatie & focus:** Alle interactieve elementen zijn bereikbaar via toetsenbord (voor web: met een logische tabvolgorde). Focus states zijn visueel duidelijk (zoals beschreven, een outline of highlight die ook zichtbaar is als er bijvoorbeeld geen muis-hover is). We zorgen dat er geen “keyboard traps” zijn – je moet altijd met bijv. Esc modals kunnen sluiten en uit een menu kunnen tabben.
+- **Alt-text en aria-labels:** Elke afbeelding die informatief is krijgt duidelijke alt-tekst. Bijvoorbeeld de foto van een fysiotherapeut op de homepage: alt="Fysiotherapeut gebruikt Hysio Pro op tablet tijdens behandelplan overleg". Decoratieve plaatjes krijgen lege alt of role="presentation". Iconen in knoppen of links hebben verborgen tekst of aria-labels die de functie beschrijven (bv. het verzenden-icoon heeft aria-label="Verstuur bericht"). Dit is essentieel voor screenreader-gebruikers.
+- **Formuliervelden & labels:** In code worden inputvelden altijd gekoppeld aan een &lt;label&gt; of aria-label zodat screenreaders context geven. Foutmeldingen bij velden bevatten bovendien ARIA-live regions of worden direct na het veld geplaatst met duidelijke tekst (“Dit veld is verplicht”) – en visueel contrasterend (bijv. rode tekst met icoon) zonder uitsluitend op kleur te steunen.
+- **Content voor verschillende leesniveaus:** We houden rekening met gezondheidsvaardigheden. Teksten in Hysio Go (patient-facing) zijn op B1-niveau Nederlands geschreven waar mogelijk, zodat de meerderheid het begrijpt. Lastige medische termen worden uitgelegd (een kleine tooltip of “i”-icoon met uitleg bij eerste gebruik).
+- **Kleurcodering en -blindheid:** Zoals eerder genoemd: belangrijke statusaanduidingen zijn nooit alleen in kleur. Een voorbeeld: bij afspraken in de agenda markeren we toekomstige afspraken in mint en afgelopen in grijs, maar we zetten er ook een label “Voltooid” of een icoontje bij, zodat iemand met kleurenblindheid het verschil ziet. We testen onze interface met simulaties voor protanopia/deuteranopia (rood-groen blindheid is meest voorkomend) om te zien of alle info nog onderscheidbaar is.
+- **Inclusiviteit in beeld en tekst:** Afbeeldingen tonen een diversiteit aan gebruikers (geen uitsluiting op basis van etniciteit, leeftijd, lichaamsbouw). In teksten letten we op **inclusieve taal** – we spreken bijvoorbeeld fysiotherapeuten niet aan met alleen “hij” (we gebruiken “hij of zij” of gewoon “je” wat neutraal is). Ook proberen we stereotypering te vermijden: dus niet aannemen dat alle fysiotherapeuten man zijn of alle patiënten passief; we laten in content zowel mannelijke als vrouwelijke professionals zien, etc.
+- **Dark mode ondersteuning:** We ontwerpen zowel een light als dark theme voor de webapp (en eventueel mobiele app) om tegemoet te komen aan gebruikersvoorkeur en bepaalde visuele beperkingen (sommige visueel beperkte gebruikers prefereren high contrast white-on-black). In dark mode keren we kleuren om: Off-white wordt donkergrijs/zwart, de Deep Green teksten worden lichter (mint of wit tekst). We behouden wel onze accentkleuren, maar passen de tint eventueel iets aan voor genoeg contrast op donkere achtergronden (bv. mint op zwart heeft niet genoeg contrast voor tekst, dus zouden we eerder wit of een veel lichtere variant van mint gebruiken voor tekst). Alle iconen en illustraties worden op transparante achtergrond opgeslagen zodat ze in zowel light als dark mode bruikbaar zijn (of we leveren twee versies indien nodig).
+
+Door deze maatregelen is Hysio bruikbaar voor zo veel mogelijk mensen, ongeacht beperking of situatie. We blijven accessibility testen uitvoeren (inclusief audits en gebruikersfeedback) bij elke grote update van het platform of de website, om te garanderen dat we niemand onbedoeld buitensluiten. **Inclusivity by design** is een kernonderdeel van onze merkwaarden “Mensgericht” en “Betrouwbaar”.
+
+## Data‑visualisatie
+
+Gebruik eenvoudige grafieken (bar, lijn, donut) om inzichten zoals tijdsbesparing of patiëntevaluaties te tonen. Richtlijnen:
+
+- **Kleuren** – Gebruik de primaire kleuren en neutrale tinten uit het palet; gebruik niet meer dan drie kleuren per grafiek. Contrasteer voldoende
+- **Grid & schaal** – Kies overzichtelijke assen met logische intervallen. Vermijd 3D‑effecten en overbodige inkleuring.
+- **Labels** – Plaats labels dicht bij de gegevenspunten. Houd het lettertype kleiner (12–14 px) maar leesbaar. Vermeld een duidelijke titel en assentitels.
+
+## Design‑tokens & Thema‑bestanden
+
+Leg alle stijlen vast in **design‑tokens** (bijv. JSON). Deze tokens bevatten kleuren, lettertypes, spacing (4/8 px‑grid), border‑radius (4 px), schaduw (0 px 2 px 4 px 0 px rgba(0,0,0,0.08)). Bouw thema’s voor **light** en **dark** mode. Houd rekening met **RTL** (Right‑to‑Left): iconen en navigatie spiegelen, maar de verhoudingen blijven gelijk
+
+## Copy & Tone Guidelines
+
+Een consistente en doordachte schrijfstijl is net zo belangrijk als het visuele aspect van het merk. Deze sectie biedt praktische richtlijnen voor tone-of-voice, do’s & don’ts in teksten, en voorbeeldzinnen zodat elke schrijver of contentmaker in de Hysio-stijl kan communiceren.
+
+**Voice attributes:** Hysio’s toon balanceert tussen verschillende polen om het juiste effect te bereiken: - _Vriendelijk maar professioneel:_ De toon is empathisch, toegankelijk en uitnodigend (**vriendelijk**), zonder te informeel of clownesk te worden – we behouden een zekere deskundigheid en correcte taal (**professioneel**). - _Slim maar empathisch:_ Communicaties tonen dat we weten waar we het over hebben en intelligente oplossingen bieden (**slim**), en tegelijk beseffen we de gevoelens en context van de lezer – we spreken met respect en begrip (**empathisch**). - _Zelfverzekerd maar bescheiden:_ We brengen onze meerwaarde duidelijk over en geven geruststellende zekerheid (**zelfverzekerd**), maar we vermijden arrogant of opschepperig taalgebruik – credit geven we liever aan de gebruiker (“jij bereikt meer”) dan aan onszelf als product (**bescheiden**).
+
+**Do’s en Don’ts (Schrijfstijl & Tone):** - **Doe:** Spreek de lezer direct aan met “je”. → _“Je kunt vandaag nog aan de slag met Hysio Pro.”_  
+**Don’t:** Koude, afstandelijke aanspreekvorm gebruiken. ✖ _“De gebruiker kan direct aan de slag met de software.”_ (te formeel/onpersoonlijk) - **Doe:** Gebruik actieve vorm en positieve bewoording. → _“Hysio analyseert automatisch je verslag en doet een voorstel.”_  
+**Don’t:** Passieve of negatieve constructies. ✖ _“Het verslag wordt door het systeem geanalyseerd en er wordt een voorstel gedaan.”_ (onnodig omslachtig) - **Doe:** Houd teksten kort en krachtig, vooral in UI en marketing headers. → _“Minder papierwerk, meer patiëntenzorg.”_  
+**Don’t:** Te lange zinnen of overdadige uitleg in één adem. ✖ _“Met Hysio krijg je de beschikking over een systeem dat je administratieve last significant reduceert en je daardoor meer tijd geeft om je te concentreren op je kernactiviteiten in de patiëntenzorg.”_ (te lang, breek dit op) - **Doe:** Laat de waarde voor de gebruiker spreken. → _“Bespaar tot wel 8 uur per week aan administratie.”_  
+**Don’t:** Alleen over onszelf praten of buzzwords gebruiken. ✖ _“Hysio is een revolutionaire marktleider met state-of-the-art AI-implementaties.”_ (who cares? wat merkt de gebruiker daarvan?) - **Doe:** Behoud een empathische ondertoon, zeker bij gevoeligheden. → _“Last van pijn? Hysio helpt je stap voor stap verder.”_  
+**Don’t:** Te technisch of kil overkomen. ✖ _“De applicatie stelt een gedigitaliseerd oefenprogramma samen voor de patiënt.”_ (geen gevoel of menselijkheid in zo’n zin)
+
+**Voorbeeld zinsconstructies en woordkeuzes:** - We **tutoyeren** standaard: “Hysio geeft **jou** meer tijd voor **je** vak.” - We vermijden anglicismen of jargon tenzij de doelgroep dit begrijpt. Liever “verslag schrijven” dan “documentatie genereren”. - Bij het uitleggen van AI-resultaten kiezen we mensentaal: _“Op basis van de ingevoerde gegevens denkt Hysio dat... (suggestie).”_ i.p.v. _“Het systeem heeft gededuceerd dat...”_ - We gebruiken ook vragen om lezer te betrekken: _“Wil je nóg meer inzichten? Ontdek Hysio Knowledge.”_
+
+**Voorbeeld Tone-of-Voice in verschillende contexten:**
+
+- **Website Hero tagline:** _“Meer tijd voor je vak. Minder gedoe.”_ – Korte zin. Twee delen gescheiden door punt voor ritme. De boodschap is een belofte direct aan de fysio.
+- **Product beschrijving (Hysio Pro):** _“Stel je voor: je verslag is af terwijl jij je volgende patiënt begroet. Hysio Pro maakt het mogelijk – volledig automatisch en 100% volgens KNGF-richtlijn.”_ – Actief, schetst scenario, praat in je/jij vorm, geeft concrete voordeel + een stukje bewijs (KNGF-richtlijn).
+- **Hulptekst in app (microcopy):** _“Geen zorgen, dit doen we de volgende keer wel. 🤓”_ – Bijvoorbeeld als een bepaald veld optioneel is en de gebruiker het overslaat. Emoji 🤓 zou kunnen in een informele context binnen de community of een lichte tone context, maar in professionele context zouden we dat beperken. Hier tonen we begrip en zelfs een vleug humor, mits passend bij de gebruiker (voor een fysio kan een knipoogje soms wel, naar patiënten toe wellicht minder).
+- **Foutmelding:** _“Oeps, dat ging niet goed. Probeer het zo nog eens.”_ – We zeggen niet “ERROR 504: Time-out” of “Het formulier is onjuist ingevuld!!!”; we houden het menselijk en constructief. Eventueel gevolgd door concretere hint: _“Controleer of alle verplichte velden zijn ingevuld.”_
+- **E-mail nieuwsbrief opening:** _“Hallo Anne, we hebben iets nieuws dat je praktijk gaat transformeren…”_ – We beginnen persoonlijk, bij naam als mogelijk, en meteen pakkend over de waarde.
+- **Social media post (LinkedIn):** _“🆕_ _Nieuw in Hysio Pro:_ _AI Triage. Vanaf vandaag helpt Hysio je bij het analyseren van intakegegevens – sneller inzicht, betere zorg. Lees meer op onze blog 👉 \[link\]”_ – Hier gebruiken we emoji’s spaarzaam (een enkele om aandacht te trekken), duidelijke kop **Nieuw in Hysio Pro:** in bold. We spreken wederom informeel (“helpt Hysio je”) maar de inhoud is informatief en professioneel relevant. We sluiten af met een call-to-action.
+- **Social media post (Instagram story tekst):** _“Wist je dat 40% van de tijd van fysio’s opgaat aan papierwerk? 📚 Met Hysio brengen we dat terug naar 10%. Meer tijd voor wat écht telt! 💪 #meerTijdVoorJeVak”_ – Op IG kunnen we iets meer playful zijn: emoji’s als visuele bulletpoints, een hashtag van onze tagline, en power emoticons als 💪. Maar nog steeds core message duidelijk voor een snelle lezer.
+
+**Microcopy voorbeelden:** - **Button tekst:** altijd activerend, begint vaak met een werkwoord. Voorbeeld: _“Plan intake”_, _“Deel oefening”_, _“Start proefperiode”_. - **Lege staat (empty state) boodschap:** Bijv. in de patiëntenlijst: _“Je hebt nog geen patiënten toegevoegd. Klik op ‘Nieuwe patiënt’ om te beginnen.”_ – bemoedigend en direct. - **Loading tekst met persoonlijkheid:** _“Even geduld… we zoeken naar de beste optie voor je.”_ – beter dan alleen “Loading…”. - **Success bevestiging:** na een actie: _“✅ Opgeslagen! Goed gedaan – je verslag is bijgewerkt.”_ – We vieren kleine successen met de gebruiker, wat motiveert.
+
+Alles bij elkaar moet iedereen die namens Hysio schrijft of content creëert deze stijl ademen. Het doel: herkenbaarheid (men zou bijna een Hysio-tekst moeten herkennen zonder logo erbij), vertrouwen en een stukje menselijkheid brengen in wat anders snel droge softwaretaal zou worden.
+
+# Appendices
+
+## Do’s & Don’ts Cheatsheet
+
+Als snelle referentie voor designers, developers en contentmakers is hier een overzichtelijke samenvatting van de belangrijkste **Do’s en Don’ts** in onze huisstijl:
+
+| **Do’s (Wel doen)** | **Don’ts (Niet doen)** |
+| --- | --- |
+| **Consistent kleurenpalet aanhouden:** Gebruik de primaire mintgroen, off-white en deep greens zoals gedefinieerd. Zorg voor voldoende contrast bij tekst (4.5:1+). | Afwijken met ongeautoriseerde kleuren of tinten. ✖ Geen fel oranje knop ineens of tekst in licht mint op wit zetten (onleesbaar). |
+| **Logo correct toepassen:** Gebruik het officiële Hysio logo (SVG/PNG) met respect voor veilige ruimte en minimale grootte. Varianten voor sub-brands zijn oké volgens gids. | Logo vervormen, roteren of kleuren veranderen. ✖ Geen schaduw, outline of gloweffect rond het logo plaatsen. Het logo niet op een chaotische foto plakken zonder achtergrond. |
+| **Inter font overal gebruiken:** Voor zowel headings als body. Hiërarchie bereiken via gewicht/grootte, niet via wisselend font. | Andere fonts mengen. ✖ Geen Arial of Times voor bodytekst op eigen houtje gebruiken. Geen script-fonts voor titels toevoegen die niet bij Inter passen. |
+| **Vriendelijk-professionele tone-of-voice:** Schrijf zoals een behulpzame collega spreekt – “je” vorm, actief, duidelijk en empathisch. | Formele of technische jargon-zware taal. ✖ Niet de klant met “u” aanspreken in marketing. Geen onpersoonlijke zinnen als “Gebruiker dient formulier compleet in te vullen.” |
+| **Responsive & toegankelijk design:** Zorg dat ontwerpen werken op verschillende schermgroottes en dat ALT-teksten, focus-states etc. zijn voorzien. | Exclusief designen voor één formaat. ✖ Geen tekst in kleuren die kleurenblinden niet onderscheiden (bijv. rood op groen). Geen mouse-only effecten zonder keyboard equivalent. |
+| **Gebruik van visuals die mensen tonen:** Kies foto’s/illustraties die echte situaties en diverse mensen afbeelden, met positieve doch realistische uitstraling. | Stereotypische of onrealistische stockfoto’s. ✖ Vermijd bijv. een foto met alleen een stapel dossiers als metafoor voor administratie – dat is kil. Liever de fysiotherapeut bij die dossiers, voor menselijk aspect. |
+| **Icons en illustraties uit eigen set:** Hou je aan de 2px lijnstijl en beschikbare icon library zodat alles één familie oogt. | Random icons van internet plukken die stijlbreuk veroorzaken. ✖ Bijvoorbeeld een dun 1px lijntje icoon naast onze 2px iconen – niet consistent. |
+| **Sub-brand kleuraanwending:** Gebruik accentkleur van bv. Hysio Education (Cyan) alleen in context van Education content. | Overmatig sub-merk kleuren door elkaar gooien. ✖ Niet een Hysio Go flyer maken met indigo Knowledge kleur, dat zaait verwarring. Elk accent heeft zijn plek. |
+| **Test tekstlengte in knoppen/UI:** Zorg dat woorden als “Uitloggen” of “Opslaan” goed passen en vertaalbaar zijn (NL/EN). | Tekst laten afkappen of overlappen. ✖ Geen knop genaamd “Klik hier voor het opslaan van gegevens” (te lang en niet actiegericht). |
+| **Itereer met het brand team:** Twijfel je? Vraag om feedback en gebruik de brand guide als levend document. | Eigen interpretatie pushen zonder overleg. ✖ Niet zomaar een zesde kernkleur toevoegen of tone veranderen zonder afstemming – bewaak consistentie. |
+
+Deze tabel is een snelle check; bij onduidelijkheid altijd teruggrijpen op de uitgebreide secties hierboven of contact opnemen met de brand-verantwoordelijke.

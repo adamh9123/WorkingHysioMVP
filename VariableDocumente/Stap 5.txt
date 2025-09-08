@@ -1,0 +1,45 @@
+STAP 5: Klinische Conclusie 
+Patiënt: [Naam patiënt]
+Leeftijd: [Leeftijd patiënt] jaar
+Datum Consult: [Datum]
+________________________________________
+📌 Primaire klacht
+•	Rechter schouderpijn sinds 4 weken na val op gestrekte arm tijdens tennis.
+•	Pijnklachten vooral bij tillen en overhead-activiteiten, nachtelijke pijn aanwezig.
+________________________________________
+🔍 Primaire diagnose
+Subacromiaal pijnsyndroom (SAPS)
+Waarschijnlijkheid: 75%
+•	Sterk positieve klinische testen: Painful Arc, Hawkins-Kennedy, Neer’s impingement test.
+•	Typische pijnpresentatie bij actieve abductie tussen 60°-120°.
+•	Passend bij leeftijd en klachtpatroon volgens KNGF-richtlijn Schouderklachten en ZorgTopics Schouder.
+________________________________________
+⚠️ Differentiaaldiagnoses (alternatieve hypotheses)
+1.	Rotator cuff (partiële) ruptuur supraspinatuspees (15%)
+o	Positieve Empty Can-test (pijn en krachtverlies).
+o	Trauma-gerelateerde ontstaanswijze, nachtelijke pijn.
+2.	AC-gewrichtspathologie (AC-artrose/distorsie) (10%)
+o	Lokale palpatiepijn en pijn bij cross-body-adductie.
+o	Minder uitgesproken bewegingsbeperking bij abductie.
+-----------------------------------------
+🔬 Aanvullend onderzoek (bij indicatie/twijfel)
+•	Echografie schouder: ter differentiatie SAPS vs partiële rotator cuff ruptuur.
+•	MRI schouder: bij twijfel over peesintegriteit en onvoldoende herstel.
+•	Röntgen schouder: indien verdenking op artrose of verkalking.
+________________________________________
+🎯 Geadviseerd behandelverloop (korte vooruitblik)
+•	Verwacht herstelverloop gunstig bij adequate behandeling binnen 6-12 weken.
+•	Initiële behandeling gericht op pijnvermindering en mobiliteit.
+•	Progressie naar herstel kracht en sport-specifieke integratie.
+________________________________________
+📏 Klinimetrische evaluatie
+•	Baseline NPRS, PSK en SPADI vastgesteld bij intake.
+•	Evaluatiemoment gepland na 4 behandelingen voor herbeoordeling klachten en voortgang behandeltraject.
+________________________________________
+📚 Onderbouwing en gebruikte richtlijnen
+•	KNGF-richtlijn Schouderklachten
+•	ZorgTopics Schouderpijn (subacromiaal pijnsyndroom)
+•	OrthoXpert-protocol SAPS
+________________________________________
+Samenvattend:
+De klachten en het lichamelijk onderzoek wijzen duidelijk in de richting van subacromiaal pijnsyndroom (SAPS) met beperkte verdenking op andere pathologieën. Op basis van deze bevindingen wordt gestart met een kortdurend, gefaseerd zorgtraject conform de actuele richtlijnen, met een geplande evaluatie na 4 sessies. Indien onvoldoende herstel optreedt of twijfel bestaat over aanvullende letsels, wordt tijdig aanvullend onderzoek geadviseerd.
