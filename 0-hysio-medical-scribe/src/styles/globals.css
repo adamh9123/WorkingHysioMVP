@@ -1,0 +1,85 @@
+/* Hysio Medical Scribe Global Styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import Inter font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@layer base {
+  :root {
+    /* Hysio Brand Colors */
+    --color-off-white: #F8F8F5;
+    --color-mint: #A5E1C5;
+    --color-deep-green: #004B3A;
+    --color-deep-green-900: #003728;
+    --color-mint-dark: #5BC49E;
+    --color-emerald: #10B981;
+    
+    /* NEW UI HIERARCHY: Mint Dominant, Dark Green Accent */
+    --background: var(--color-mint);
+    --foreground: var(--color-deep-green-900);
+    --primary: var(--color-deep-green);
+    --primary-foreground: var(--color-off-white);
+    --secondary: var(--color-mint-dark);
+    --accent: var(--color-deep-green-900);
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+
+  body {
+    background-color: #A5E1C5 !important;     /* ABSOLUTE MINT ACHTERGROND */
+    color: #003728 !important;                /* ABSOLUTE DONKERE TEKST */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-[#004B3A] font-semibold;
+  }
+
+  h1 {
+    @apply text-3xl font-bold;
+  }
+
+  h2 {
+    @apply text-2xl font-semibold;
+  }
+
+  h3 {
+    @apply text-xl font-medium;
+  }
+}
+
+@layer components {
+  .hysio-button {
+    @apply inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50;
+  }
+
+  .hysio-button-primary {
+    @apply hysio-button bg-[#004B3A] text-[#F8F8F5] hover:bg-[#003728] active:bg-[#003728] border-2 border-transparent hover:border-[#5BC49E];
+  }
+
+  .hysio-button-secondary {
+    @apply hysio-button bg-transparent border-2 border-[#004B3A] text-[#004B3A] hover:bg-[#004B3A] hover:text-[#F8F8F5];
+  }
+
+  .hysio-card {
+    @apply rounded-lg border border-[#004B3A]/20 bg-[#F8F8F5] p-6 shadow-sm;
+  }
+
+  .hysio-input {
+    @apply flex h-10 w-full rounded-md border border-[#004B3A]/30 bg-[#F8F8F5] px-3 py-2 text-sm text-[#003728] ring-offset-background placeholder:text-[#003728]/60 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#004B3A] focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50;
+  }
+
+  .hysio-panel {
+    @apply rounded-lg border border-[#004B3A]/20 bg-[#F8F8F5] shadow-sm;
+  }
+}

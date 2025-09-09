@@ -1,0 +1,550 @@
+@import "tailwindcss";
+
+:root {
+  /* Hysio Brand Colors - Official Brand Style Guide v2 */
+  --color-off-white: #F8F8F5;
+  --color-mint: #A5E1C5;
+  --color-deep-green: #004B3A;
+  --color-deep-green-900: #003728;
+  --color-mint-dark: #5BC49E;
+  --color-emerald: #10B981;
+  
+  /* NEW COLOR HIERARCHY: Mint as Dominant, Dark Green as Accent */
+  --background: var(--color-mint);              /* Mint background for serene atmosphere */
+  --foreground: var(--color-deep-green-900);    /* Dark green text for maximum readability */
+  --primary: var(--color-deep-green);           /* Dark green for primary actions/accents */
+  --primary-foreground: var(--color-off-white); /* Light text on dark green buttons */
+  --secondary: var(--color-mint-dark);          /* Slightly darker mint for variations */
+  --accent: var(--color-deep-green-900);        /* Darkest green for important accents */
+  --muted: rgba(165, 225, 197, 0.6);           /* Muted mint tones */
+  --muted-foreground: rgba(0, 55, 40, 0.8);    /* Muted dark green text */
+  --card: var(--color-off-white);               /* Off-white cards contrast beautifully on mint */
+  --card-foreground: var(--color-deep-green-900); /* Dark green text on off-white cards */
+  --border: rgba(0, 75, 58, 0.2);               /* Subtle dark green borders */
+  --input: var(--color-off-white);              /* Off-white input fields on mint */
+  --ring: var(--color-deep-green);              /* Dark green focus rings */
+  
+  /* Typography Variables */
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-mono: 'Fira Code', Consolas, monospace;
+  
+  /* Brand spacing and sizing */
+  --radius-button: 20px;
+  --radius-input: 8px;
+  --radius-card: 8px;
+  
+  /* Brand animations */
+  --animation-duration: 200ms;
+  --animation-timing: cubic-bezier(0.4, 0.0, 0.2, 1);
+}
+
+/* VERWIJDERD: Dark mode override die donkere achtergrond forceerde */
+/* Mint-dominant design blijft consistent in alle modi voor serene gebruikerservaring */
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* MINT BLIJFT DOMINANT - Geen donkere achtergronden toegestaan */
+    --background: var(--color-mint);              /* Mint achtergrond behouden */
+    --foreground: var(--color-deep-green-900);    /* Donkere tekst voor contrast */
+    --card: var(--color-off-white);               /* Off-white cards blijven */
+    --card-foreground: var(--color-deep-green-900); /* Donkere tekst op cards */
+    --muted: rgba(165, 225, 197, 0.6);            /* Mint muted tones */
+    --muted-foreground: rgba(0, 55, 40, 0.8);     /* Donkere tekst */
+    --border: rgba(0, 75, 58, 0.3);               /* Donkere borders */
+    --primary: var(--color-deep-green);           /* Donkere primary */
+    --primary-foreground: var(--color-off-white); /* Lichte tekst op primary */
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: #A5E1C5 !important;              /* FORCEER MINT ACHTERGROND */
+  color: #003728 !important;                   /* FORCEER DONKERE TEKST */
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  line-height: 1.6;
+  font-weight: 400;
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Brand-compliant Typography Hierarchy (Per Style Guide) */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-deep-green);
+  margin: 0;
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 3rem;        /* 48px */
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  font-size: 2.25rem;     /* 36px */
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+}
+
+h3 {
+  font-size: 1.5rem;      /* 24px */
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+h4 {
+  font-size: 1.25rem;     /* 20px */
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+h5 {
+  font-size: 1.125rem;    /* 18px */
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+h6 {
+  font-size: 1rem;        /* 16px */
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+p {
+  margin: 0 0 1rem 0;
+  line-height: 1.6;
+  color: var(--foreground);
+}
+
+/* Accessibility improvements */
+:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Remove outline for non-keyboard focus */
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* Screen reader only content */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Brand-Compliant Hysio UI Components */
+.hysio-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  border-radius: var(--radius-button);
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.2;
+  transition: all var(--animation-duration) var(--animation-timing);
+  cursor: pointer;
+  border: none;
+  outline: none;
+  padding: 0.75rem 2rem;
+  min-height: 2.75rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.hysio-button:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+
+.hysio-button:disabled {
+  pointer-events: none;
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Primary CTA Button: Dark Green on Mint Background */
+.hysio-button-primary {
+  background-color: var(--primary);           /* Dark green button */
+  color: var(--primary-foreground);          /* Off-white text */
+  box-shadow: 0 2px 4px rgba(0, 55, 40, 0.15);
+  border: 2px solid transparent;
+}
+
+.hysio-button-primary:hover {
+  background-color: var(--accent);           /* Even darker green on hover */
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 55, 40, 0.25);
+  border-color: var(--color-mint-dark);
+}
+
+.hysio-button-primary:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 6px rgba(0, 55, 40, 0.2);
+}
+
+/* Secondary Button: Outlined Dark Green */
+.hysio-button-secondary {
+  background-color: transparent;
+  border: 2px solid var(--primary);         /* Dark green border */
+  color: var(--primary);                    /* Dark green text */
+  border-radius: var(--radius-input);
+}
+
+.hysio-button-secondary:hover {
+  background-color: var(--primary);         /* Fill with dark green */
+  color: var(--primary-foreground);        /* Switch to light text */
+  border-color: var(--primary);
+}
+
+.hysio-button-secondary:active {
+  background-color: var(--accent);          /* Darker green when pressed */
+  border-color: var(--accent);
+}
+
+/* Cards with brand-compliant styling */
+.hysio-card {
+  border-radius: var(--radius-card);
+  border: 1px solid var(--border);
+  background-color: var(--card);
+  color: var(--card-foreground);
+  padding: 2rem;
+  box-shadow: 0 2px 4px rgba(0, 55, 40, 0.08);
+  transition: all var(--animation-duration) var(--animation-timing);
+}
+
+.hysio-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 55, 40, 0.1);
+  border-color: rgba(165, 225, 197, 0.4);
+}
+
+/* Input fields with brand styling */
+.hysio-input {
+  display: flex;
+  height: 2.75rem;
+  width: 100%;
+  border-radius: var(--radius-input);
+  border: 1px solid var(--border);
+  background-color: var(--input);
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  line-height: 1.4;
+  color: var(--foreground);
+  transition: all var(--animation-duration) var(--animation-timing);
+}
+
+.hysio-input:focus {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+  border-color: var(--primary);
+}
+
+.hysio-input::placeholder {
+  color: var(--muted-foreground);
+  font-weight: 400;
+}
+
+.hysio-input:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+  background-color: var(--muted);
+}
+
+/* Panel/Container component */
+.hysio-panel {
+  border-radius: var(--radius-card);
+  border: 1px solid var(--border);
+  background-color: var(--card);
+  color: var(--card-foreground);
+  box-shadow: 0 2px 4px rgba(0, 55, 40, 0.08);
+}
+
+/* AI Activity Indicator (brand micro-interaction) */
+.hysio-ai-pulse {
+  animation: var(--animation-duration) var(--animation-timing) infinite alternate;
+}
+
+@keyframes ai-pulse {
+  0% {
+    opacity: 0.6;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+}
+
+/* Enhanced brand gradient: Mint variations for depth */
+.hysio-gradient-bg {
+  background: linear-gradient(135deg, #A5E1C5 0%, #C8F1E2 50%, #E8F5F0 100%);
+}
+
+.hysio-gradient-subtle {
+  background: linear-gradient(180deg, rgba(165, 225, 197, 0.3) 0%, rgba(165, 225, 197, 0.1) 100%);
+}
+
+/* Module-specific accent indicators */
+.hysio-module-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.025em;
+}
+
+.hysio-module-scribe {
+  background-color: rgba(0, 55, 40, 0.08);   /* Subtle dark green tint on mint */
+  color: var(--color-deep-green-900);
+  border: 1px solid rgba(0, 55, 40, 0.2);
+}
+
+.hysio-module-assistant {
+  background-color: rgba(14, 165, 233, 0.08); /* Subtle blue tint on mint */
+  color: #0EA5E9;
+  border: 1px solid rgba(14, 165, 233, 0.2);
+}
+
+/* Enhanced focus states for accessibility with new color hierarchy */
+.hysio-focus-enhanced:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 3px;
+  box-shadow: 0 0 0 4px rgba(0, 75, 58, 0.15);  /* Dark green focus shadow */
+}
+
+/* New Utility Classes for Mint-Dominant Design */
+.hysio-bg-dominant {
+  background-color: var(--background);          /* Mint background */
+}
+
+.hysio-bg-surface {
+  background-color: var(--card);               /* Off-white surface on mint */
+}
+
+.hysio-text-accent {
+  color: var(--accent);                        /* Dark green accent text */
+}
+
+.hysio-border-accent {
+  border-color: var(--accent);                 /* Dark green borders */
+}
+
+.hysio-divide-accent {
+  border-color: var(--accent);                 /* Dark green dividers */
+}
+
+/* Mint-dominant layout containers */
+.hysio-container-main {
+  background: var(--background);
+  color: var(--foreground);
+  min-height: 100vh;
+}
+
+.hysio-surface-elevated {
+  background: var(--card);
+  border: 1px solid rgba(0, 75, 58, 0.15);
+  box-shadow: 0 2px 8px rgba(0, 55, 40, 0.06);
+}
+
+/* READABILITY & VISUAL HARMONY ENHANCEMENTS */
+
+/* Ensure perfect contrast for all text elements */
+.hysio-text-primary {
+  color: var(--foreground);              /* Dark green for maximum readability */
+}
+
+.hysio-text-secondary {
+  color: var(--muted-foreground);        /* Slightly muted dark green */
+}
+
+.hysio-text-on-mint {
+  color: var(--accent);                  /* Dark green text on mint backgrounds */
+  font-weight: 500;                      /* Slightly bolder for better readability */
+}
+
+.hysio-text-on-surface {
+  color: var(--foreground);              /* Dark green on off-white surfaces */
+}
+
+/* Visual hierarchy helpers */
+.hysio-visual-hierarchy-1 {
+  color: var(--accent);                  /* Darkest green for most important */
+  font-weight: 700;
+}
+
+.hysio-visual-hierarchy-2 {
+  color: var(--primary);                 /* Dark green for secondary importance */
+  font-weight: 600;
+}
+
+.hysio-visual-hierarchy-3 {
+  color: var(--foreground);              /* Standard dark green */
+  font-weight: 500;
+}
+
+/* Enhanced readability for small text */
+.hysio-small-text {
+  color: var(--accent);                  /* Use darkest green for small text */
+  font-weight: 500;                      /* Slightly bolder */
+  letter-spacing: 0.015em;               /* Slight letter spacing */
+}
+
+/* Perfect spacing and rhythm */
+.hysio-content-spacing > * + * {
+  margin-top: 1.5rem;                    /* Consistent vertical rhythm */
+}
+
+.hysio-content-spacing h1,
+.hysio-content-spacing h2,
+.hysio-content-spacing h3 {
+  margin-top: 2.5rem;                    /* Extra space before headings */
+  margin-bottom: 1rem;                   /* Space after headings */
+}
+
+.hysio-content-spacing h1:first-child,
+.hysio-content-spacing h2:first-child,
+.hysio-content-spacing h3:first-child {
+  margin-top: 0;                         /* No top margin for first headings */
+}
+
+/* Subtle visual separators using new hierarchy */
+.hysio-divider {
+  border-bottom: 1px solid rgba(0, 75, 58, 0.15);
+}
+
+.hysio-divider-strong {
+  border-bottom: 2px solid rgba(0, 75, 58, 0.25);
+}
+
+/* Enhanced interactive states for better UX */
+.hysio-interactive:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 55, 40, 0.12);
+}
+
+.hysio-interactive:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 4px rgba(0, 55, 40, 0.08);
+}
+
+/* Soft mint variations for subtle background differentiation */
+.hysio-bg-mint-soft {
+  background: rgba(165, 225, 197, 0.3);
+}
+
+.hysio-bg-mint-softer {
+  background: rgba(165, 225, 197, 0.15);
+}
+
+.hysio-bg-mint-subtlest {
+  background: rgba(165, 225, 197, 0.08);
+}
+
+/* Perfect focus states for accessibility */
+.hysio-focus-ring:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  :root {
+    --foreground: #001E17;               /* Even darker green for high contrast */
+    --accent: #001E17;                   /* Maximum contrast */
+    --border: rgba(0, 75, 58, 0.4);      /* Stronger borders */
+  }
+  
+  .hysio-button-primary {
+    border: 2px solid var(--accent);
+  }
+  
+  .hysio-input {
+    border: 2px solid var(--accent);
+  }
+}
+
+/* Color blind accessibility */
+.hysio-colorblind-safe {
+  /* Add pattern or icon alongside color indicators */
+  position: relative;
+}
+
+.hysio-status-success::before {
+  content: "✓";
+  margin-right: 0.5rem;
+  color: var(--accent);
+  font-weight: bold;
+}
+
+.hysio-status-warning::before {
+  content: "⚠";
+  margin-right: 0.5rem;
+  color: #FFC043;
+  font-weight: bold;
+}
+
+.hysio-status-error::before {
+  content: "✕";
+  margin-right: 0.5rem;
+  color: #DC2626;
+  font-weight: bold;
+}
+
+/* Ensure perfect print styles */
+@media print {
+  :root {
+    --background: #FFFFFF;
+    --foreground: #000000;
+    --card: #FFFFFF;
+    --border: #000000;
+  }
+  
+  .hysio-no-print {
+    display: none !important;
+  }
+  
+  .hysio-print-break {
+    page-break-before: always;
+  }
+}
+
+/* Reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
